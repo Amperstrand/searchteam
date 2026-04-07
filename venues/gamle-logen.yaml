@@ -9,30 +9,100 @@ data:
   sound_light: true
   network: null
   security_service: null
-  viewing_quality: null
-  seating_quality: null
-  village_spaces: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 5
   sponsor_spaces: null
   social_area_capacity: null
   cost_per_person: null
   total_cost: null
   exclusivity: true
-  layout_flexibility: null
+  layout_flexibility: good
   atmosphere: excellent
-  sponsor_attractiveness: fair
+  sponsor_attractiveness: good
   transport_access: excellent
-  dinner_capacity: null
-  catering_in_house: null
-  bar_service: null
-  coatcheck: null
+  dinner_capacity: 200
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
   single_venue: true
   green_room: null
-  av_equipment: null
+  av_equipment: true
   loading_access: null
 
 notes: |
-  Former Masonic lodge, built 1836. Magnificent historic venue for art, culture, events.
-  Capacity: 10-500 people in large halls. Located at Grev Wedels plass 2, central Oslo.
-  Unique one-of-a-kind architecture. Classic feel that could match BSides identity.
-  Need to check: number of breakout rooms for villages, AV capabilities, cost.
-  Historic venue may have accessibility limitations.
+  RESEARCHED: Website deep-dive (gamlelogen.no), meetings.no, teknisk page.
+  No physical visit — quote requested via web but no response received.
+
+  CONTACT: +47 22 33 44 70 / post@logen.no (part of Fursetgruppen)
+  Owned by Fursetgruppen (high-end Oslo hospitality group — Maaemo, Ekebergrestauranten, etc.)
+
+  ## Rooms (6 total, all under one roof):
+
+  Store Sal (2nd floor, 373m²):
+    - Cinema/concert: 500, School: 180, Banquet (round tables): 200, Long tables: 320
+    - World-class acoustics, ornate Masonic decorations from 1836
+    - Stage: 9m wide, 3-6m deep. Hall: 12.5m × 18.7m
+    - 564 total chairs (504 main + 60 gallery)
+
+  Strangersalen (1st floor, 136m²):
+    - Cinema: 140, School: 100, Banquet: 130
+    - Good secondary stage or village hub
+
+  H.M Grisen (1st floor, 55m²): 46 cinema / 48 banquet
+  Hoffpensjonisten (1st floor, 55m²): 46 cinema / 52 banquet
+  Amaldus (1st floor, 50m²): 40 cinema / 44 banquet
+  Kringla (1st floor, 38m²): 35 banquet only
+
+  VILLAGE POTENTIAL: 5 smaller rooms on 1st floor (Strangersalen + 4 salons)
+  could serve as village spaces. Strangersalen could also work as overflow track.
+  Social/lunch area is unclear — no dedicated large foyer listed.
+
+  ## Technical (Store Sal):
+  - PA: L-Acoustics Arcs Wide + SB18 subs, 5" delayed speech system
+  - Mixer: Yamaha CL1 + Rio 3224 (32 in, 16 out)
+  - Projection: Rear-projected 540×310cm 16:9 screen, NEC 6200 lumen
+  - Lighting: 5 dimmable chandeliers, 6 fresnels, RGBW LED columns, DMX
+  - Induction loop for hearing aids
+  - Power: 63A 3-phase behind stage + gallery
+
+  ## Technical (Strangersalen):
+  - PA: JBL EON 715 + dB Tech sub
+  - Mixer: Allen & Heath QU-16
+  - Projection: 350cm front-projected screen, 2× Epson 5500 lumen
+
+  ## Accessibility:
+  Approved by Norges Handicapforbund (Norwegian Association of the Disabled).
+  Elevator to all floors (125cm wide, 1000kg capacity, 210cm height).
+  Ramped thresholds, accessible toilet.
+
+  ## Catering:
+  In-house via Furset Catering (high-end). Conference package includes:
+  meeting room + standard tech, 2 coffee breaks (1 with cake), 2-course lunch,
+  fruit, cloakroom. Bar service available.
+
+  ## Pricing:
+  NO PUBLIC PRICING. Must request quote via contact form or phone.
+  This is a premium venue (Fursetgruppen portfolio) — expect higher cost.
+  Given comparable venues (Sentralen at 2475 NOK/pp), estimate 1500-2500 NOK/pp.
+  Quote has been requested but not received as of this evaluation.
+  NEXT STEP: Phone call to +47 22 33 44 70 for concrete pricing.
+
+  ## Strengths for BSides:
+  - Unique historic atmosphere (Masonic lodge, 1836) — excellent vibe fit
+  - Central location, walking distance from Oslo S
+  - 500 capacity meets requirement exactly
+  - 5 breakout rooms for villages (major upgrade from current 1)
+  - Professional AV included (L-Acoustics, Yamaha, NEC projectors)
+  - Full accessibility (NH approved)
+  - Exclusive use possible
+  - Strong sponsor appeal (historic/prestigious venue)
+
+  ## Concerns:
+  - No pricing available — must get quote before shortlisting
+  - Social/lunch area capacity unclear (no large foyer mentioned)
+  - Historic building may limit rigging/flexibility for production
+  - Sponsor booth space unknown (hall layouts are ornate, may limit booths)
+  - Pillars in Store Sal could affect viewing (note: Rebel was rejected for this)
+  - No loading dock mentioned — equipment access via street-level entrance
+  - Elevator is 125cm wide — may limit large equipment transport
