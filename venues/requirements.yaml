@@ -1,0 +1,251 @@
+# BSides Oslo Venue Requirements
+# Extracted from Search Team Kickoff (07.04.2026) and Intro to BSO presentations
+# 
+# Each criterion has:
+#   category: grouping for display
+#   requirement: must | should | nice  (blocking / important / bonus)
+#   weight: scoring weight (must-haves don't need weight — they gate)
+#   threshold: minimum acceptable value (for numeric criteria)
+#   current: what Vulkan Arena / Pokalen provides today
+#   target: what we're aiming for
+#   notes: context from the kickoff meeting
+
+event:
+  name: "Security BSides Oslo"
+  type: "tech/security conference"
+  expected_attendance: 400-500
+  format: "single-day, single-track (expanding to multi-track?)"
+  current_venue: "Vulkan Arena / Pokalen"
+  current_total_cost_nok: 289370
+  budget_range_nok: 430000-580000  # 50-100% increase from current
+  event_month: "August/September"
+  announcement_target: "BSides Oslo 2026"
+
+criteria:
+  # ── MUST HAVE (blocking — venue fails if missing) ──────────────────────
+
+  - id: arena_capacity
+    category: "Capacity"
+    requirement: must
+    label: "Arena / main stage capacity"
+    unit: "people"
+    threshold: 400
+    target: "400-500"
+    current: 400
+    notes: "Selling out earlier each year. Need headroom for growth."
+
+  - id: sound_light
+    category: "Production"
+    requirement: must
+    label: "Sound & light capabilities"
+    type: "boolean"
+    threshold: true
+    current: true
+    notes: "Essential for talks and village demos."
+
+  - id: network
+    category: "Production"
+    requirement: must
+    label: "Network QoS / dedicated WiFi"
+    type: "boolean"
+    threshold: true
+    current: true
+    notes: "Security conference — attendees expect reliable, fast WiFi. VLANs for CTF/villages a plus."
+
+  - id: security_service
+    category: "Services"
+    requirement: must
+    label: "Security service available"
+    type: "boolean"
+    threshold: true
+    current: true
+    notes: "Required for responsible event management."
+
+  - id: viewing_quality
+    category: "Production"
+    requirement: must
+    label: "Unobstructed viewing"
+    type: "boolean"
+    threshold: true
+    current: true
+    notes: "Rebel rejected partly due to pillar obstructions and odd angles."
+
+  - id: seating_quality
+    category: "Production"
+    requirement: must
+    label: "Proper seating (not benches/cushions)"
+    type: "boolean"
+    threshold: true
+    current: true
+    notes: "Rebel rejected — cushions on concrete benches."
+
+  # ── SHOULD HAVE (weighted scoring — venue is graded) ───────────────────
+
+  - id: village_spaces
+    category: "Capacity"
+    requirement: should
+    weight: 10
+    label: "Number of village spaces"
+    unit: "rooms/areas"
+    threshold: 3
+    target: "3+"
+    current: 1
+    notes: "Villages are extremely popular. Major driver for venue change."
+
+  - id: sponsor_spaces
+    category: "Capacity"
+    requirement: should
+    weight: 8
+    label: "On-site sponsor spaces"
+    unit: "booths/spots"
+    threshold: 6
+    target: "6+"
+    current: "3-4"
+    notes: "Need to grow sponsor revenue to offset cost increase."
+
+  - id: social_area_capacity
+    category: "Capacity"
+    requirement: should
+    weight: 8
+    label: "Social / lunch area capacity"
+    unit: "people"
+    threshold: 300
+    target: "3-400+"
+    current: "<250"
+    notes: "Downstairs Pokalen is too crowded. Bottleneck for growth."
+
+  - id: cost_per_person
+    category: "Cost"
+    requirement: should
+    weight: 10
+    label: "Conference day cost per person (ex mva)"
+    unit: "NOK"
+    threshold: 1200
+    target: "<1000"
+    current: 706
+    notes: "Current benchmark. 50-100% increase expected but try to stay reasonable."
+
+  - id: total_cost
+    category: "Cost"
+    requirement: should
+    weight: 9
+    label: "Estimated total venue cost (ex mva)"
+    unit: "NOK"
+    threshold: 580000
+    target: "<500000"
+    current: 289370
+    notes: "Hard budget ceiling. Buffer exists but shouldn't be burned through."
+
+  - id: exclusivity
+    category: "Flexibility"
+    requirement: should
+    weight: 6
+    label: "Exclusive use of space for the day"
+    type: "boolean"
+    current: true
+    notes: "Nice to have but not blocking. Shared spaces create noise/distraction (Rebel problem)."
+
+  - id: layout_flexibility
+    category: "Flexibility"
+    requirement: should
+    weight: 7
+    label: "Layout flexibility (reconfigurable rooms)"
+    type: "ordinal"  # poor / fair / good / excellent
+    notes: "Håndverkeren rejected — bottleneck during re-rig from talks to dinner."
+
+  - id: atmosphere
+    category: "Vibe"
+    requirement: should
+    weight: 5
+    label: "Atmosphere / vibe fit for BSides"
+    type: "ordinal"
+    notes: "BSides is grassroots, technical, community-driven. Clarion Hub felt too corporate. Vulkan has 'gritty' charm that works."
+
+  - id: sponsor_attractiveness
+    category: "Vibe"
+    requirement: should
+    weight: 4
+    label: "Attractive to corporate sponsors"
+    type: "ordinal"
+    notes: "More polished venues may attract bigger sponsors (Clarion tradeoff)."
+
+  - id: transport_access
+    category: "Location"
+    requirement: should
+    weight: 5
+    label: "Public transport access"
+    type: "ordinal"
+    notes: "Oslo — most central venues are well-connected. Factor in late-night departure after dinner/party."
+
+  # ── NICE TO HAVE (bonus scoring — tiebreakers) ─────────────────────────
+
+  - id: dinner_capacity
+    category: "Capacity"
+    requirement: nice
+    weight: 3
+    label: "Dinner capacity"
+    unit: "people"
+    threshold: 200
+    target: 250
+    current: 150
+    notes: "Currently host dinner in arena (150 capacity). 250 would be a real upgrade."
+
+  - id: catering_in_house
+    category: "Services"
+    requirement: nice
+    weight: 2
+    label: "In-house catering"
+    type: "boolean"
+    current: true
+    notes: "Convenient but not required. Can bring in external caterers."
+
+  - id: bar_service
+    category: "Services"
+    requirement: nice
+    weight: 2
+    label: "Bar service"
+    type: "boolean"
+    current: true
+    notes: "BSides social/party aspect. External bar hire is fine."
+
+  - id: coatcheck
+    category: "Services"
+    requirement: nice
+    weight: 1
+    label: "Coatcheck / cloakroom"
+    type: "boolean"
+    current: true
+    notes: "Norway — people bring jackets 8 months of the year."
+
+  - id: single_venue
+    category: "Flexibility"
+    requirement: nice
+    weight: 3
+    label: "All areas under one roof"
+    type: "boolean"
+    current: true
+    notes: "Split venues add complexity but may be necessary for larger space."
+
+  - id: green_room
+    category: "Services"
+    requirement: nice
+    weight: 2
+    label: "Green room / speaker lounge"
+    type: "boolean"
+    notes: "Private space for speakers to prepare and decompress."
+
+  - id: av_equipment
+    category: "Production"
+    requirement: nice
+    weight: 2
+    label: "AV equipment included (projectors, screens, mics)"
+    type: "boolean"
+    notes: "Reduces production cost and complexity."
+
+  - id: loading_access
+    category: "Logistics"
+    requirement: nice
+    weight: 2
+    label: "Loading dock / easy equipment access"
+    type: "boolean"
+    notes: "For AV setup, village equipment, sponsor materials."

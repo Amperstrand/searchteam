@@ -1,0 +1,38 @@
+name: ""
+slug: ""
+url: ""
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: null
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: null
+  atmosphere: null
+  sponsor_attractiveness: null
+  transport_access: null
+  dinner_capacity: null
+  catering_in_house: null
+  bar_service: null
+  coatcheck: null
+  single_venue: null
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  Research notes go here. Include:
+  - Contact info and quote details
+  - Visit impressions
+  - Anything not captured by the scoring criteria
+  - Source of information (website, visit, email, phone)
