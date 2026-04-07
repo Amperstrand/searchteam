@@ -1,0 +1,38 @@
+name: "Rebel"
+slug: rebel
+url: "https://rebeloslo.no"
+status: rejected
+evaluated: true
+
+data:
+  arena_capacity: 500
+  sound_light: true
+  network: true
+  security_service: true
+  viewing_quality: false
+  seating_quality: false
+  village_spaces: 2
+  sponsor_spaces: 4
+  social_area_capacity: 300
+  cost_per_person: null
+  total_cost: null
+  exclusivity: false
+  layout_flexibility: poor
+  atmosphere: good
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: false
+  green_room: false
+  av_equipment: true
+  loading_access: true
+
+notes: |
+  REJECTED. Shared space where office cafeteria lunch happens in an open atrium
+  during the event (noise/distraction). Pillar obstructions create bad viewing
+  angles. Seating is cushions on concrete benches — uncomfortable for a full
+  day conference. Expensive if charging admission. Otherwise a cool space with
+  good atmosphere and central location.

@@ -1,0 +1,39 @@
+name: "SALT Art & Music"
+slug: salt
+url: "https://www.salted.no"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 350
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 3
+  sponsor_spaces: 4
+  social_area_capacity: 300
+  cost_per_person: null
+  total_cost: null
+  exclusivity: false
+  layout_flexibility: good
+  atmosphere: excellent
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: false
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  Inspired by Viking banquet hall and pyramid. Six stages, six saunas, serving areas.
+  Conference capacity: 120-350. Located at Langkaia 1, city center (Bjørvika).
+  Unique industrial design. May be too small for main arena at 350 max.
+  But the multi-stage layout could work for a different conference format.
+  Shared space — other activities may be running simultaneously.
+  Worth considering if format shifts to multi-track.

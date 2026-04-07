@@ -1,0 +1,38 @@
+name: "Vulkan Arena / Pokalen"
+slug: vulkan
+url: "https://vulkanarena.no"
+status: current
+evaluated: true
+
+data:
+  arena_capacity: 400
+  sound_light: true
+  network: true
+  security_service: true
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 1
+  sponsor_spaces: 3
+  social_area_capacity: 240
+  cost_per_person: 706
+  total_cost: 289370
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: excellent
+  sponsor_attractiveness: fair
+  transport_access: good
+  dinner_capacity: 150
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: true
+  green_room: false
+  av_equipment: false
+  loading_access: true
+
+notes: |
+  Current venue since 2022. Well-known, sold out every year.
+  Main limitation: only 1 village space, downstairs Pokalen too crowded for 250+ people.
+  Good gritty/industrial vibe that fits BSides. Central Oslo location.
+  Dinner happens in the arena itself (150 capacity limits).
+  Total cost ~289k NOK ex mva for 2025.

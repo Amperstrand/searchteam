@@ -1,0 +1,38 @@
+name: "Gamle Logen"
+slug: gamle-logen
+url: "https://www.gamlelogen.no/konferanse"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 500
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: null
+  atmosphere: excellent
+  sponsor_attractiveness: fair
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: null
+  bar_service: null
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  Former Masonic lodge, built 1836. Magnificent historic venue for art, culture, events.
+  Capacity: 10-500 people in large halls. Located at Grev Wedels plass 2, central Oslo.
+  Unique one-of-a-kind architecture. Classic feel that could match BSides identity.
+  Need to check: number of breakout rooms for villages, AV capabilities, cost.
+  Historic venue may have accessibility limitations.

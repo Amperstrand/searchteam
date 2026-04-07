@@ -1,0 +1,38 @@
+name: "Kulturkirken Jakob"
+slug: kulturkirken-jakob
+url: "https://www.jakob.no/utleie"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 500
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 2
+  sponsor_spaces: 3
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: fair
+  atmosphere: excellent
+  sponsor_attractiveness: fair
+  transport_access: good
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  Historic church converted to cultural venue. Kirkerommet: 70-500 people, Krypten: 20-120.
+  Located at Hausmanns gate 14, Sofienberg. Restaurant on-site (Jakobs Brønn).
+  Excellent acoustics — great for talks. Unique atmosphere fits BSides grassroots vibe.
+  May be limited on village/sponsor space — only 2 main rooms.
+  Need to check: cost, WiFi quality, AV setup options, sponsor placement.

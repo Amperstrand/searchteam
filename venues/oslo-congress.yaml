@@ -1,0 +1,38 @@
+name: "Oslo Congress Center"
+slug: oslo-congress
+url: "https://www.oslokongressenter.no/en"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 500
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: fair
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: null
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  Part of Oslo Kongressenter Folkets Hus, established 1907. Congress Hall: 400-1600.
+  Located at Youngs gate 21, downtown Oslo. Full-service with food & beverage.
+  Likely expensive — large professional congress center. Need formal quote.
+  Multiple conference rooms suggest good village/breakout potential.
+  Historic building but more corporate feel than cultural venues.

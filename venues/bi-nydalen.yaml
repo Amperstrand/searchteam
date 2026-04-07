@@ -1,0 +1,38 @@
+name: "BI Norwegian Business School"
+slug: bi-nydalen
+url: "https://www.bi.no/en/about-bi/guests/rental-of-rooms-and-premises/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: good
+  atmosphere: fair
+  sponsor_attractiveness: fair
+  transport_access: good
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: false
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  University campus in Nydalen. Modern facilities, multiple auditoriums and classrooms.
+  Need to check: largest auditorium capacity, number of breakout rooms, weekend availability.
+  University rates likely more affordable than commercial venues.
+  Academic atmosphere — less "BSides vibe" but very functional.
+  May lack bar/dinner facilities on-site. Nydalen is well-connected by T-bane.

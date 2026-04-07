@@ -1,0 +1,42 @@
+name: "Sentralen (Marmorsalen)"
+slug: sentralen
+url: "https://www.sentralen.no/en/lokaler/marmorsalen"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 440
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 3
+  sponsor_spaces: 4
+  social_area_capacity: 400
+  cost_per_person: 2475
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: excellent
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: 230
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  Former bank transaction hall with marble interior, 550m², 9m ceiling.
+  Theatre: 440, Standing: 1000, Long tables: 400, Round tables: 230.
+  Multiple rooms in the building — good for villages.
+  Full day package: 2475 NOK/person (min 120 people).
+  Day package: 1335 NOK/person. Streaming package: 51,000 NOK.
+  Central Oslo (Kvadraturen). Historic but not corporate.
+  PRICE CONCERN: 2475 NOK/person × 450 attendees = ~1.1M NOK — WAY over budget.
+  The day package at 1335 NOK/person × 450 = ~600k NOK — still over budget ceiling.
+  Need to clarify what's included and whether per-person cost is negotiable.

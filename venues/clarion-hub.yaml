@@ -1,0 +1,38 @@
+name: "Clarion Hotel The Hub"
+slug: clarion-hub
+url: "https://clarionhotelthehub.com"
+status: considered
+evaluated: true
+
+data:
+  arena_capacity: 500
+  sound_light: true
+  network: true
+  security_service: true
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 4
+  sponsor_spaces: 6
+  social_area_capacity: 400
+  cost_per_person: null
+  total_cost: 500000
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: poor
+  sponsor_attractiveness: excellent
+  transport_access: excellent
+  dinner_capacity: 250
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: true
+  green_room: true
+  av_equipment: true
+  loading_access: true
+
+notes: |
+  CONSIDERED but not plan A. Estimated ~500k NOK — at the top of budget range.
+  More corporate and less gritty than Vulkan — vibe mismatch with BSides identity.
+  Could be more attractive to sponsors. Has everything on paper (capacity, villages,
+  dinner, AV). Not immediately ruled out if budget allows and sponsor revenue
+  increases. Would be the safest "corporate conference" option.

@@ -1,0 +1,38 @@
+name: "Meet Ullevaal"
+slug: meet-ullevaal
+url: "https://www.meet-ullevaal.no/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: fair
+  sponsor_attractiveness: good
+  transport_access: good
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  Large conference center at Ullevål Stadion. Professional venue.
+  Likely expensive — major conference facility. Need capacity and pricing details.
+  Good public transport (T-bane to Ullevål stadion).
+  Sports stadium setting — very different vibe from Vulkan.
+  Probably overkill for BSides size, but worth checking capacity and cost.
