@@ -2,20 +2,20 @@ name: "Sentralen (Marmorsalen)"
 slug: sentralen
 url: "https://www.sentralen.no/en/lokaler/marmorsalen"
 status: candidate
-evaluated: false
+evaluated: true
 
 data:
   arena_capacity: 440
   sound_light: true
-  network: null
-  security_service: null
-  viewing_quality: null
-  seating_quality: null
-  village_spaces: 3
+  network: true
+  security_service: false
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 4
   sponsor_spaces: 4
   social_area_capacity: 400
-  cost_per_person: 2475
-  total_cost: null
+  cost_per_person: 1980
+  total_cost: 891000
   exclusivity: true
   layout_flexibility: good
   atmosphere: excellent
@@ -24,19 +24,83 @@ data:
   dinner_capacity: 230
   catering_in_house: true
   bar_service: true
-  coatcheck: null
+  coatcheck: true
   single_venue: true
-  green_room: null
-  av_equipment: null
-  loading_access: null
+  green_room: true
+  av_equipment: true
+  loading_access: true
 
 notes: |
   Former bank transaction hall with marble interior, 550m², 9m ceiling.
-  Theatre: 440, Standing: 1000, Long tables: 400, Round tables: 230.
-  Multiple rooms in the building — good for villages.
-  Full day package: 2475 NOK/person (min 120 people).
-  Day package: 1335 NOK/person. Streaming package: 51,000 NOK.
-  Central Oslo (Kvadraturen). Historic but not corporate.
-  PRICE CONCERN: 2475 NOK/person × 450 attendees = ~1.1M NOK — WAY over budget.
-  The day package at 1335 NOK/person × 450 = ~600k NOK — still over budget ceiling.
-  Need to clarify what's included and whether per-person cost is negotiable.
+  Theatre: 440, Standing: 1000, Long tables: 400, Round tables: 230, Classroom: 150.
+  Central Oslo (Kvadraturen), Bankplassen 3. Historic but not corporate.
+  Owned by Sparebankstiftelsen DNB — may qualify for discounted rental rates.
+
+  PRICING (all ex VAT unless noted):
+  - Bare room rental: 69,000 NOK ex VAT
+  - Day package (08:00-16:00): 1,068 NOK/person ex VAT (1,335 incl. VAT)
+  - Full day package (08:00-02:00): 1,980 NOK/person ex VAT (2,475 incl. VAT)
+  - Streaming package: 51,000 NOK ex VAT
+  - Dinner package (18:00-02:00): 1,104 NOK/person ex VAT
+
+  COST ANALYSIS (450 attendees):
+  - Full day package: 1,980 × 450 = 891,000 NOK — WAY over budget ceiling (580k)
+  - Day package only: 1,068 × 450 = 480,600 NOK — within budget, under 500k target
+  - Bare room + custom: 69,000 + tech/catering — likely cheapest but requires separate quotes
+  - Day package is only 08:00-16:00 — may not cover full BSides schedule
+
+  MUST-HAVE CRITERIA:
+  - arena_capacity (440): PASS — above 400 threshold
+  - sound_light: PASS — top-tier sound, lighting, streaming tech available
+  - network: PASS — separate/dedicated WiFi can be arranged (48h notice). Standard guest WiFi also available (SentralenGuest). VLAN capability not confirmed — ask producer.
+  - security_service: FAIL — not mentioned on website. Organizer responsible for own guests. External security likely needed at extra cost. MUST VERIFY with venue.
+  - viewing_quality: PASS — open 550m² marble hall, no pillars/columns. 9m ceiling. Glass pyramid provides natural light (can be dimmed). Advanced curtain system can divide room.
+  - seating_quality: PASS — proper chairs and tables included in rental for all standard setups (theatre, classroom, long tables, round tables, etc.)
+
+  VILLAGE SPACES (4 confirmed):
+  Building has 6 floors with multiple rooms. Beyond Marmorsalen:
+  - Hvelvet: 60 cinema, 135m² (black box, former bank vault)
+  - Forstanderskapssalen: 135 cinema, 158m² (wood-panelled directors' room)
+  - Gymsalen: 80 cinema, 114m² (amphitheater, 4m ceiling)
+  - Kronesalen: 80 cinema, 100m² (bright room, exits to rooftop terrace)
+  Plus meeting rooms on 2nd floor. All rooms require separate rental — confirm availability and cost.
+
+  BACKSTAGE / GREEN ROOM:
+  "Dronningen" room on 2nd floor mezzanine above Marmorsalen:
+  - Large table for 14, kitchen counter, sink, fridge, coffee machine
+  - Adjacent wardrobe, toilet, and shower
+  - Full wall of makeup mirrors (hideable behind curtains)
+  - Projector, 100" screen (16:10), speakers, large TV
+
+  TECHNICAL EQUIPMENT (included in room rent):
+  - Projector and canvas
+  - Simple sound system + PC audio connection
+  - Simple stage lighting + environmental lighting
+  - 2 microphones (wireless or hoop)
+  Additional equipment available for hire. Own technicians allowed alongside Sentralen tech staff.
+  Streaming/recording possible — 4 cameras, own streaming technician, 51k NOK streaming package.
+
+  FACILITIES:
+  - Cloakroom/wardrobe on lower floor (staffed cloakroom included in packages)
+  - Load-in: ground level from Akersgaten or ramp from Øvre Slottsgate 3
+  - 4 emergency exits
+  - Entrance at back of room via reception/foyer
+  - Acoustic curtains available to reduce reverberation
+  - Natural light from large windows + glass pyramid ceiling (dimmable)
+  - No parking — nearest garages: Palèet and Bankplassen
+
+  EXCLUSIVITY NOTE:
+  Marmorsalen itself is exclusive when rented. However, other events may run
+  simultaneously in other parts of the building. Common areas (foyer, corridors)
+  are shared. Sentralen is a busy event house with daily activity on all floors.
+
+  KEY CONCERNS:
+  1. COST: Full day package at 891k NOK is 54% over budget ceiling. Day package
+     at 480k fits but only covers 08:00-16:00. Bare room at 69k + separate
+     catering/tech could be the most cost-effective route — needs quotes.
+  2. SECURITY: No security service mentioned. External security required — additional cost.
+  3. WIFI QUALITY: Dedicated network available but VLAN/QoS for CTF not confirmed.
+  4. SHARED BUILDING: Other events may run concurrently — potential noise in common areas.
+
+  CONTACT: booking@sentralen.no, tel: 22 47 25 00
+  Source: sentralen.no website, Marmorsalen venue page, FAQ, all-venues page (2026-04-07)
