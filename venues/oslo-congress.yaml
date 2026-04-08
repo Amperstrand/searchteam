@@ -5,34 +5,109 @@ status: candidate
 evaluated: false
 
 data:
-  arena_capacity: 500
+  arena_capacity: 1600
   sound_light: true
-  network: null
-  security_service: null
-  viewing_quality: null
-  seating_quality: null
-  village_spaces: null
-  sponsor_spaces: null
-  social_area_capacity: null
+  network: true
+  security_service: true
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 6
+  sponsor_spaces: 8
+  social_area_capacity: 750
   cost_per_person: null
   total_cost: null
   exclusivity: true
-  layout_flexibility: good
+  layout_flexibility: excellent
   atmosphere: fair
   sponsor_attractiveness: good
   transport_access: excellent
-  dinner_capacity: null
+  dinner_capacity: 230
   catering_in_house: true
-  bar_service: null
-  coatcheck: null
+  bar_service: true
+  coatcheck: true
   single_venue: true
-  green_room: null
+  green_room: true
   av_equipment: true
   loading_access: null
 
 notes: |
-  Part of Oslo Kongressenter Folkets Hus, established 1907. Congress Hall: 400-1600.
-  Located at Youngs gate 21, downtown Oslo. Full-service with food & beverage.
-  Likely expensive — large professional congress center. Need formal quote.
-  Multiple conference rooms suggest good village/breakout potential.
-  Historic building but more corporate feel than cultural venues.
+  Part of Oslo Kongressenter Folkets Hus, established 1907. Located at Youngs gate 21,
+  downtown Oslo near Youngstorget. Full-service with in-house food & beverage.
+
+  CONTACT: booking@oslo.kongressenter.no / +47 90 70 99 99
+  No public pricing — formal quote required. Website does not list per-person or room rates.
+
+  ── ROOMS INVENTORY ──
+
+  Conference Halls (2nd floor):
+    Congress Hall:  400-1600 capacity, 1000 m². Theatre: 1600, Class: 880, Banquet: 950.
+      Has stage/podium. Main stage candidate for BSides talks.
+    Hall A:         200-690 capacity, 560 m². Theatre: 690, Class: 404, Banquet: 450.
+    Hall B:         100-393 capacity, 290 m². Theatre: 393, Class: 216, Banquet: 220.
+    Hall C:         70-242 capacity, 170 m². Theatre: 242, Class: 142, Banquet: 180.
+    Hall B & C:     200-680 capacity, 440 m². Theatre: 680, Banquet: 410.
+
+  Breakout/Village rooms (1st floor):
+    Hall D:         50-150 capacity, 210 m². Theatre: 150, Banquet: 140.
+    Forum:          50-179 capacity, 131 m². Theatre: 179, Banquet: 120.
+
+  Meeting rooms (village/sponsor/workshop potential, 2nd & 3rd floor):
+    Meeting Room 1: 26-100 capacity, 71.5 m².
+    Meeting Room 2: 15-65 capacity, 50 m².
+    Meeting Room 3: 2-10 capacity, 15 m². (Board room)
+    Meeting Room 4: 25-95 capacity, 71.5 m².
+    Meeting Room 5: 15-65 capacity, 50 m².
+    Meeting Room 6: 2-10 capacity. (Board room)
+    Odin:           20-81 capacity, 65 m².
+    Balder:         15-60 capacity, 46 m².
+    Tyr:            2-10 capacity, 23 m². (Board room)
+
+  Restaurants & Social:
+    Restaurant Møller: 70-230 capacity, 250 m². Dinner/banquet space.
+    Restaurant Henrik: 380 m². (Capacity not listed)
+    Foyer: 750 m². Registration, sponsor booths, social area.
+
+  ── BSIDES FIT ASSESSMENT ──
+
+  VILLAGE SPACES (6+ potential):
+    Hall B, Hall C, Hall D, Forum, Meeting Room 1, Meeting Room 4, Odin, Balder all
+    usable as village rooms. Hall B & C combined gives 440 m² for large villages.
+    3 dedicated meeting rooms (MR1-5, Odin, Balder) suitable for villages/workshops.
+
+  SPONSOR SPACES (6+ potential):
+    Foyer (750 m²) is ideal for sponsor booths — large open area near entrance.
+    Congress Hall lobby and corridors between halls provide additional sponsor real estate.
+
+  SOCIAL/LUNCH AREA:
+    Foyer: 750 m² — excellent for registration, socializing, sponsor area.
+    Restaurant Møller: 230 dinner capacity (meets 200 threshold).
+    Restaurant Henrik: 380 m² (no capacity listed, likely 200+).
+
+  TRANSPORT: Excellent. 5 min bus, 7 min from Oslo S, 40 min from OSL.
+  Near Youngstorget — good late-night transport options.
+
+  TECHNICAL: In-house technicians. Ranked "among the best in Norway" for technically
+  advanced events. AV equipment included. Sound & light capabilities confirmed.
+
+  SERVICES: Eco-lighthouse certified. Allergy-friendly catering. Cloakroom in foyer
+  (staffed on request). Security service available.
+
+  ── CONCERNS ──
+
+  PRICE: No public pricing. Large professional congress center — likely expensive.
+  Must get formal quote to compare with budget (430k-580k NOK).
+  Current Vulkan cost: 289,370 NOK. Sentralen comparison: 2475 NOK/person full day.
+  If OKS is similar per-person pricing: 2475 × 450 = ~1.1M NOK (way over budget).
+  But OKS may offer better rates for tech/community events. QUOTE ESSENTIAL.
+
+  ATMOSPHERE: Corporate/congress feel — less "gritty charm" than Vulkan.
+  Historic building (Folkets Hus, 1907) but primarily a professional conference venue.
+  May feel too corporate for BSides grassroots vibe (cf. Clarion Hub rejection notes).
+
+  EXCLUSIVITY: Confirmed — can book entire venue exclusively.
+
+  ── NEXT STEPS ──
+  1. Request formal quote from booking@oslo.kongressenter.no
+  2. Specify: ~450 attendees, single day (Aug/Sep 2026), main track + villages,
+     lunch + dinner, AV needs, exclusive use
+  3. Compare total cost against 580k NOK budget ceiling
