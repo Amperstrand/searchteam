@@ -1,0 +1,100 @@
+name: "MUNCH (Munchmuseet)"
+slug: munch
+url: "https://www.munch.no/en/venue-hire/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 350
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 3
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: excellent
+  sponsor_attractiveness: excellent
+  transport_access: excellent
+  dinner_capacity: 160
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website deep-dive (munch.no venue hire pages).
+
+  CONTACT: utleie@munchmuseet.no
+  ADDRESS: Edvard Munchs plass 1, 0194 Oslo (Bjørvika)
+
+  ## Festsal (2nd floor, main hall):
+  - 480 m²
+  - Reception (standing): up to 500
+  - Seating: up to 350 (274 in bleacher-style seating)
+  - Dining at round tables: up to 160
+  - NO supporting pillars — "hovers unsupported" above entrance
+  - Motorized ceiling rig for suspended screens and technical equipment
+  - World-class acoustics — designed for live music
+  - Steinway D-274 concert grand piano
+  - 16:9 screens on two walls, each with Panasonic 20K ANSI projector
+  - Modern sound and light rig
+  - Acoustic drapes available
+  - West-facing windows with natural light
+
+  ## Sky Room (12th floor):
+  - Reception: 150, Seated: 110, Banquet: 64
+  - Private west-facing rooftop terrace with fjord views
+  - Could serve as premium speaker/sponsor lounge
+
+  ## Amfi:
+  - 48 guests — small breakout space
+
+  ## Foyer:
+  - Wide staircase from foyer to Festsal
+  - Space for registration and social areas
+
+  ## Catering:
+  All admission includes access to museum exhibitions.
+  Can provide customized talks by museum educators.
+  Private entrance available at side of building.
+
+  ## Strengths for BSides:
+  - Unique cultural setting — surrounded by world-class Munch art
+  - No pillars — excellent unobstructed viewing
+  - World-class acoustics — great for talks
+  - Multiple spaces: Festsal (main), Sky Room (12th floor), Amfi, Foyer
+  - Sky Room rooftop terrace with fjord views — stunning for sponsor/VIP events
+  - Museum admission included for all attendees — unique value add
+  - Bjørvika location — modern waterfront area, excellent transport (Oslo S nearby)
+  - Extremely attractive to sponsors — prestigious cultural institution
+  - Professional AV (Panasonic 20K projectors, motorized ceiling rig)
+  - Exclusive use available
+
+  ## Concerns:
+  - Main hall seated capacity only 350 (274 bleacher + 76 regular) — BELOW 400 threshold
+  - 500 standing capacity meets threshold but only for reception, not conference seating
+  - Bleacher-style seating for 274 may not be comfortable for full-day conference
+  - No pricing on website — likely premium given museum prestige
+  - WiFi quality not documented
+  - Security service not mentioned
+  - Loading access not documented
+  - Museum setting may restrict rigging/decoration flexibility
+  - Catering by Fursetgruppen (high-end) — likely expensive
+  - Village/breakout spaces limited to Sky Room (110) and Amfi (48)
+  - Dinner capacity only 160 (below 200 threshold)
+  - May be too prestigious/expensive for BSides grassroots identity
+
+  ## Assessment:
+  BORDERLINE — Seated capacity of 350 falls short of the 400 must-have requirement.
+  Could work if format shifts to multi-track with smaller rooms, or if standing/mixed
+  setup is acceptable. Worth a quote request but unlikely to meet core capacity need.
+  The Sky Room alone would be an amazing sponsor lounge or VIP dinner venue.

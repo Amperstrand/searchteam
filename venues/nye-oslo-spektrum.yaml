@@ -1,0 +1,78 @@
+name: "Nye Oslo Spektrum (Arena Conference Hall)"
+slug: nye-oslo-spektrum
+url: "https://nyeoslospektrum.no/spaces/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: fair
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: null
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: true
+
+notes: |
+  RESEARCHED: Website (nyeoslospektrum.no), news articles about renovation.
+
+  ADDRESS: Sonja Henies plass 2, 0185 Oslo (Bjørvika, near Oslo S)
+  NOTE: Oslo Spektrum has been under MAJOR renovation since June 2025.
+  Scheduled reopening: September 1, 2026.
+  BSides Oslo typically runs August/September — TIMING RISK.
+
+  ## New facilities:
+  - "Mini-Spektrum" — mid-sized venue addressing Oslo's need for adaptable event spaces
+  - Arena Conference Hall: new purpose-built conference space
+  - Multi Room: 4 individual rooms with smart partition system (combine into grand space)
+  - Meeting rooms, food & beverage services
+  - Professional AV and technical infrastructure
+
+  ## Context:
+  - NDC Oslo 2026 (Sept 14-18) is booked here — major tech conference validation
+  - JavaZone historically held here (currently at Nova Spektrum Lillestrøm during renovation)
+  - 1404-seat main arena (Store Sal) — too big for BSides, but new smaller spaces may fit
+  - Exact capacity of Arena Conference Hall and Mini-Spektrum not yet published on website
+  - Direct metro access (Jernbanetorget station beneath venue)
+  - Short walk from Oslo Central Station
+
+  ## Strengths for BSides:
+  - Central Bjørvika location — best transport in Oslo
+  - Professional conference infrastructure — hosts NDC, JavaZone
+  - New purpose-built conference spaces — modern tech
+  - Multiple rooms for villages/breakouts
+  - Loading dock and professional logistics
+  - Strong sponsor appeal (major venue, tech conference pedigree)
+
+  ## Concerns:
+  - TIMING RISK: Reopens September 1, 2026. If BSides is in August, venue not available.
+  - Exact capacity of new spaces unknown — may be too big or not right fit
+  - Likely expensive — premium venue for major events
+  - Corporate arena feel — may not match BSides grassroots vibe
+  - NDC Oslo already booked for Sept 2026 — scheduling conflict possible
+  - No pricing published
+  - WiFi for CTF not documented
+  - Security arrangements not specified
+
+  ## Assessment:
+  HIGH UNCERTAINTY. The new spaces could be perfect or could be too large/expensive.
+  Key question is whether the Arena Conference Hall fits 400-500 and whether
+  the September 2026 reopening date works with BSides scheduling.
+  Worth monitoring — contact them post-summer 2026 for availability and capacity details.

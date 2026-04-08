@@ -1,0 +1,86 @@
+name: "Samfunnssalen"
+slug: samfunnssalen
+url: "https://www.samfunnssalen.no/konferanser"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 640
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 2
+  sponsor_spaces: null
+  social_area_capacity: 200
+  cost_per_person: 895
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: excellent
+  sponsor_attractiveness: fair
+  transport_access: good
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website deep-dive (samfunnssalen.no), technical spec page.
+
+  CONTACT: +47 21 68 33 00 / booking@samfunnssalen.no
+  ADDRESS: Arbeidersamfunnets Plass 1, 0181 Oslo (Grünerløkka)
+  Active since 1938 (except war years). "Lokaler med sjel" — venues with soul.
+
+  ## Main Hall (4th floor):
+  - 540 m², 24.3m × 19m, ceiling 6.1-6.6m
+  - Cinema: 640, Classroom: 400, AGM: 450, Banquet: 300-550, Standing: 700
+  - Stage: 10.6m wide × 6m deep, 117cm high, movable stairs both sides
+  - Foajeen (foyer): 155 m² social/break area with cloakroom
+  - 3rd floor: 215 m² additional space (lunch 150, mingling 200)
+
+  ## Technical (included in rental):
+  - SOUND: L'acoustics ARC II × 6, SB28 subs × 4, LA8 × 2, Yamaha QL1 32-ch digital mixer
+  - Shure wireless: 2 handheld SM58, 6 headsets QLRX
+  - Induction loop for hearing aids
+  - LIGHTS: 6 Fresnels (upgradeable to full rig: 12 Prolights Astra Hybrid 330, 10 JetWash 19 pix, 4 JetWash 19, 20 LED Par)
+  - AV: Fabulux T-series LED wall — main 28 m² (2.6mm pixel pitch), 2× side screens 15 m² each
+  - Projection backup: 1× M-Vision laser 18K ANSI lumen (4m screen), 2× E-vision laser 10K (2.5m screens)
+  - Roland V-8HD video switcher, Mac + PC + clicker
+
+  ## Catering:
+  In-house kitchen. Conference package from 895 NOK/pp includes:
+  coffee stations (espresso, latte, cappuccino), 2 breaks with serving,
+  lunch (sandwiches + smoothie). Bar service available.
+
+  ## Strengths for BSides:
+  - 640 cinema capacity — well above 400 threshold with growth headroom
+  - Exclusive use — "du har lokalet for deg selv" (the space is yours alone)
+  - Professional AV included — LED wall, projectors, wireless mics, video switcher
+  - L'acoustics PA system — professional sound quality
+  - Two floors for villages/breakouts (3rd + 4th floor spaces)
+  - In-house catering from 895 NOK/pp — competitive pricing
+  - Historic venue with character (since 1938) — fits BSides grassroots vibe
+  - Grünerløkka location — vibrant neighborhood, good transport links
+  - Cloakroom included in winter months (Sept-May)
+  - Conference host included in rental
+
+  ## Concerns:
+  - No dedicated WiFi info on website — must verify network quality for CTF
+  - Security service not mentioned — organizer may need to arrange separately
+  - Village spaces: only 2 defined areas (3rd floor + foyer), may be tight for 3+ villages
+  - Sponsor booth space not detailed — foyer area may limit sponsor placement
+  - Seating quality not specified — need to verify proper chairs (not benches)
+  - Viewing quality unknown — check for pillar obstructions
+  - Loading access not documented
+  - Grünerløkka is slightly less central than Vulkan/Sentralen
+
+  ## Pricing estimate (450 attendees):
+  - Conference package: 895 × 450 = 402,750 NOK — within budget ceiling (580k)
+  - This is the starting package; full cost with AV upgrades, bar, dinner may be higher
+  - Quote needed for full-day event including evening activities

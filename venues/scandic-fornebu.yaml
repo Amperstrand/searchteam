@@ -1,0 +1,81 @@
+name: "Scandic Fornebu"
+slug: scandic-fornebu
+url: "https://www.scandichotels.com/en/hotels/scandic-fornebu/meetings-and-conferences"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 782
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 8
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: fair
+  sponsor_attractiveness: good
+  transport_access: poor
+  dinner_capacity: 420
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website deep-dive (scandichotels.com), conference hotel group sites.
+
+  CONTACT: +47 21 89 81 02 / meeting.Fornebu@scandichotels.com
+  ADDRESS: Martin Linges vei 2, Fornebu (formerly Oslo Airport)
+  One of eastern Norway's largest conference hotels.
+
+  ## Conference Facilities (1,100+ m²):
+  Atlantis (636 m²): Theatre 782, Banquet 420 — largest hall
+  Atlantis 1 (252 m²): Theatre 336
+  Atlantis 2 (190 m²): Theatre 256
+  Atlantis 3 (183 m²): Theatre 256
+  Nautilus (97 m²): Theatre 130
+  Nemo (89 m²): Theatre 110
+  Plus: Hydra (73), Pontus (57), Triton (41), Gefion (47), and 6 small rooms (9-18 m²)
+  Total: 13-15 meeting rooms, max capacity 1,850 people
+
+  ## Technical:
+  - All rooms equipped with latest AV technology
+  - WiFi, wireless audio induction loops, projectors included
+  - Large windows, good environmentally-friendly ventilation
+  - 45 min from Oslo Gardermoen Airport
+
+  ## Strengths for BSides:
+  - 782 theatre capacity — well above 400 threshold, significant headroom
+  - 8+ breakout rooms for villages and sponsor spaces
+  - Full-service hotel — accommodation for speakers/organizers on-site
+  - Dinner capacity 420 in Atlantis — meets the 250 target easily
+  - Comprehensive AV included
+  - All rooms have natural light
+  - Professional conference hotel with extensive experience
+
+  ## Concerns:
+  - LOCATION: Fornebu is 8 km from Oslo city center — poor public transport
+  - No direct metro/T-bane to Fornebu — bus from Lysaker station (~20 min)
+  - Attendees without cars will find it difficult to reach
+  - Evening departure after dinner/party requires bus/taxi arrangement
+  - Hotel conference atmosphere — less "BSides vibe" than cultural venues
+  - No pricing on website — large conference hotels tend to be expensive
+  - WiFi quality for CTF not documented
+  - Security service not specified
+  - May feel too corporate/sterile for grassroots security conference
+
+  ## Assessment:
+  CAPABLE but LOCATION is the major concern. Fornebu is far from central Oslo
+  and poorly connected by public transport. This is the same concern that
+  disqualifies Norrøna House (Bærum). Would need shuttle bus arrangement
+  from Oslo S or Lysaker to be viable. Good backup option if central venues
+  don't work out.

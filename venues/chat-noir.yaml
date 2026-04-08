@@ -1,0 +1,72 @@
+name: "Chat Noir"
+slug: chat-noir
+url: "https://www.chatnoir.no/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 1
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: false
+  layout_flexibility: poor
+  atmosphere: excellent
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: false
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (chatnoir.no), Wikipedia, general knowledge.
+
+  CONTACT: 940 22 945 / post@rockefeller.no (Auditorium AS)
+  ADDRESS: Klingenberggata 5, Oslo (Sentrum)
+  Established 1912 — historic cabaret and revue theatre.
+  Part of Auditorium AS group (Rockefeller, John Dee, Sentrum Scene).
+
+  ## Capacity:
+  Exact seated capacity not published on website. Wikipedia and ticketing sites
+  suggest approximately 400+ seats in theatre configuration. The venue has a
+  traditional theatre layout with fixed or semi-fixed seating.
+
+  ## Strengths for BSides:
+  - Historic cabaret theatre (since 1912) — unique atmosphere, lots of character
+  - Central Oslo location near Nationaltheatret
+  - Theatre-style seating — proper chairs for full-day conference
+  - Professional sound and lighting (Auditorium AS production)
+  - Stage with full theatrical infrastructure
+  - In-house bar service
+  - Good transport access
+
+  ## Concerns:
+  - Fixed theatre seating layout — limited flexibility for reconfiguration
+  - Single hall with no significant breakout rooms on-site
+  - No dedicated village spaces — would need to use sister venues (extra cost/logistics)
+  - No in-house conference catering — bar service only, external catering needed for lunch
+  - WiFi quality unknown — historic theatre may have limited infrastructure
+  - Security service unknown
+  - Loading access not documented
+  - Active entertainment venue — booking may conflict with regular programme
+  - Layout flexibility is poor — theatre seats fixed, hard to reconfigure for dinner/villages
+
+  ## Assessment:
+  BORDERLINE. The atmosphere and character are excellent for BSides, and the
+  seated capacity may meet the 400 threshold. However, the lack of breakout
+  spaces, limited catering options, and poor layout flexibility are significant
+  concerns. Would need to rent sister venues (Rockefeller, John Dee) for
+  villages — adding cost and complexity. Worth a visit and quote request
+  but lower priority than Samfunnssalen or Oslo Event Hub.

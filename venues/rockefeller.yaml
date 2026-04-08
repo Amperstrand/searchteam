@@ -1,0 +1,73 @@
+name: "Rockefeller Music Hall"
+slug: rockefeller
+url: "https://www.rockefeller.no/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 2
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: false
+  layout_flexibility: fair
+  atmosphere: excellent
+  sponsor_attractiveness: fair
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: false
+  bar_service: true
+  coatcheck: null
+  single_venue: false
+  green_room: null
+  av_equipment: true
+  loading_access: true
+
+notes: |
+  RESEARCHED: Website (rockefeller.no), general knowledge of venue.
+
+  CONTACT: post@rockefeller.no
+  ADDRESS: Badstugata 2, Oslo (Sentrum)
+  Part of Auditorium AS group — sister venues: John Dee, Sentrum Scene, Chat Noir.
+
+  Rockefeller is one of Oslo's most iconic live music venues. Professional concert
+  infrastructure with excellent sound and lighting. The venue is primarily a standing
+  concert venue — exact seated conference capacity is not published on website.
+
+  ## Sister venues (can be booked together):
+  - John Dee: intimate venue (150 capacity)
+  - Sentrum Scene: larger venue
+  - Chat Noir: cabaret theatre (400+ seats)
+
+  ## Strengths for BSides:
+  - Excellent sound and lighting — professional concert-grade
+  - Central Oslo location
+  - Great atmosphere — gritty music venue fits BSides vibe
+  - Multiple sister venues could provide village/breakout spaces
+  - Professional AV and production infrastructure
+  - Loading dock access
+
+  ## Concerns:
+  - PRIMARILY A STANDING VENUE — seated conference capacity unknown, likely below 400
+  - No dedicated conference seating — would need to rent/bring chairs
+  - No in-house catering — external catering required
+  - Shared venue — other events may run concurrently
+  - Not designed for conferences — lacks conference amenities (WiFi, break rooms, etc.)
+  - Village/breakout space limited unless booking sister venues separately
+  - WiFi quality unknown — concert venues don't typically have conference-grade WiFi
+  - Security service unknown
+
+  ## Assessment:
+  UNLIKELY FIT. While the atmosphere is great and the location is central,
+  Rockefeller is a standing music venue, not a conference venue. Converting
+  it to a seated conference for 400+ would require significant additional
+  rental (chairs, tables, WiFi, catering) and may still not provide adequate
+  village/breakout space. Chat Noir (sister venue) is a better fit as a
+  cabaret theatre with fixed seating.

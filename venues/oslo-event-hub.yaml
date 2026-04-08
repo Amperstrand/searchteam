@@ -1,0 +1,89 @@
+name: "Oslo Event Hub"
+slug: oslo-event-hub
+url: "https://www.osloeventhub.com/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 500
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 3
+  sponsor_spaces: null
+  social_area_capacity: 320
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: good
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: 350
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: true
+  green_room: true
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website deep-dive (osloeventhub.com), capacity page, technical spec.
+  Formerly Gamle Museet (housed Astrup Fearnley Museum before it moved to Tjuvholmen).
+
+  CONTACT: Via website contact form (osloeventhub.com)
+  ADDRESS: Dronningens Gate 4, 0152 Oslo (Sentrum)
+  Awarded "Best Conference & Event Venue in Norway 2025"
+
+  ## Spaces (total ~2000 m² over 3 floors):
+  Main Hall (350 m²):
+    - Cinema: 500, Classroom: 120, Board room: 100
+    - Banquet long tables: 350, Round tables: 250
+
+  Big Time Hall (160 m²):
+    - Cinema: 220, Classroom: 70, Board room: 50
+    - Banquet long tables: 140, Round tables: 90
+
+  Mingle Area (320 m²):
+    - Cinema: 150, Round tables: 80, Long tables: 135
+
+  TOTAL combined capacity:
+    - Cinema: 700, Banquet long tables: 600, Round tables: 420, Mingle: 850
+
+  Board Room (35 m²): Cinema 30, U-table 24, Board room 10
+  Gallery (ground floor): Registration and arrival area
+  Backstage room (2nd floor): For speakers/organizers
+
+  ## Technical:
+  - 14 screens and projectors across the venue
+  - Professional lighting rigs in both halls
+  - Stages in both Main Hall and Big Time Hall
+  - Streaming capabilities and hybrid event support
+  - Modern AV equipment throughout
+
+  ## Strengths for BSides:
+  - 500 cinema capacity in main hall — meets requirement exactly
+  - Second hall (220) could serve as secondary track or large village space
+  - 320 m² mingle area — significant social/break space
+  - Exclusive use of entire venue
+  - Backstage/green room available
+  - Central Sentrum location — excellent transport access
+  - Award-winning venue (2025) — proven quality
+  - Professional project management included
+  - Flexible layouts — cinema, classroom, banquet, exhibition
+  - Gallery space at entrance for registration/check-in
+  - Modern tech infrastructure (streaming, hybrid support)
+
+  ## Concerns:
+  - No pricing on website — must request quote
+  - Main hall at exactly 500 may be tight with no headroom for growth
+  - Big Time Hall at 220 is good for overflow but may not be large enough for villages
+  - WiFi quality not documented — critical for security conference
+  - Security service not mentioned
+  - Seating quality not specified — need to verify proper conference chairs
+  - Loading access not documented
+  - Recently renovated (2022) — may be premium-priced
+  - Would need to use Big Time Hall + Mingle Area creatively for village spaces
