@@ -1,0 +1,47 @@
+---
+name: "Ingeniørenes Hus Møtesenter"
+location:
+  city: "Oslo"
+  neighborhood: "Vika"
+  address: "Kronprinsens gate 17, Oslo"
+  near: "Nationaltheatret"
+  coordinates:
+    latitude: 59.9157
+    longitude: 10.7354
+capacity:
+  festsalen_main_hall: 280
+  storsalen: "280+"
+  flexible_spaces: "Multiple"
+  total_capacity: "280+"
+venue_type:
+  - "Meeting Center"
+  - "Conference Venue"
+  - "Event Venue"
+  - "Restaurant/Banquet"
+amenities:
+  - "Modern AV technology"
+  - "Restaurant facilities"
+  - "Newly renovated (2024-2025)"
+  - "New furniture and ventilation"
+  - "Professional lighting"
+  - "Multiple meeting spaces"
+  - "Mingle areas"
+contact:
+  website: "https://www.motekompaniet.no/ingenioreneshus"
+  phone: "+47 22 17 12 00"
+  email: "booking@eventbyraaet.no"
+  booking_platform: "https://www.meetings.no/konferanse/ingenirenes-hus-mtesenter/"
+venue_management:
+  - "Møtekompaniet"
+  - "Eventbyraaet"
+notes: |
+  - Centrally located near Nationaltheatret
+  - Elegant functionalist architecture
+  - Recently fully renovated with modern facilities
+  - New AV technology and equipment
+  - Suitable for conferences, meetings, and events
+  - Professional restaurant and catering services
+  - Festsalen (main hall) capacity 280+
+source: "https://www.motekompaniet.no/ingenioreneshus"
+discovery_date: "2026-04-08"
+status: "verified"

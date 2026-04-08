@@ -1,0 +1,45 @@
+---
+name: "Oslo Congress Centre"
+norwegian_name: "Oslo Kongressenter"
+location:
+  city: "Oslo"
+  neighborhood: "Oslo"
+  coordinates:
+    latitude: 59.9139
+    longitude: 10.7522
+capacity:
+  congress_hall: "400-1600"
+  sal_b: "390+"
+  sal_b_c_combined: "800+"
+  flexible_spaces: "Multiple"
+venue_type:
+  - "Congress Center"
+  - "Conference Venue"
+  - "Banquet Hall"
+  - "Event Venue"
+amenities:
+  - "Multiple halls and rooms"
+  - "3D virtual tours available"
+  - "Professional AV equipment"
+  - "Flexible seating arrangements"
+  - "Banquet facilities"
+  - "Multiple floor options"
+  - "Customizable configurations"
+contact:
+  website: "https://www.oslokongressenter.no/"
+  english_site: "https://www.oslokongressenter.no/en/"
+  phone: "+47 (contact via website)"
+  booking_platform: "https://www.meetings.no/konferanse/oslo-kongressenter/"
+notes: |
+  - Largest conference venue in Oslo
+  - Congress Hall: 400-1600 capacity (1000 sqm)
+  - Sal B: 390+ capacity
+  - Sal B+C combined: 800+ capacity
+  - Multiple halls suitable for different event sizes
+  - Professional conference facilities
+  - Extensive experience with large events
+  - 3D virtual tours of spaces available
+  - Customizable for conferences, courses, and parties
+source: "https://www.oslokongressenter.no/"
+discovery_date: "2026-04-08"
+status: "verified"
