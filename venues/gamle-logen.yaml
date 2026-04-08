@@ -28,7 +28,7 @@ data:
   single_venue: true
   green_room: null
   av_equipment: true
-  loading_access: null
+  loading_access: true
 
 notes: |
   RESEARCHED: Website deep-dive (gamlelogen.no), meetings.no, teknisk page.

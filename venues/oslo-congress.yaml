@@ -7,10 +7,10 @@ evaluated: false
 data:
   arena_capacity: 500
   sound_light: true
-  network: null
-  security_service: null
-  viewing_quality: null
-  seating_quality: null
+  network: true
+  security_service: true
+  viewing_quality: true
+  seating_quality: true
   village_spaces: null
   sponsor_spaces: null
   social_area_capacity: null
@@ -23,7 +23,7 @@ data:
   transport_access: excellent
   dinner_capacity: null
   catering_in_house: true
-  bar_service: null
+  bar_service: true
   coatcheck: null
   single_venue: true
   green_room: null
