@@ -23,7 +23,7 @@ data:
   transport_access: excellent
   dinner_capacity: null
   catering_in_house: true
-  bar_service: null
+  bar_service: true
   coatcheck: null
   single_venue: true
   green_room: null

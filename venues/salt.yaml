@@ -27,7 +27,7 @@ data:
   coatcheck: null
   single_venue: false
   green_room: null
-  av_equipment: null
+  av_equipment: true
   loading_access: null
 
 notes: |
