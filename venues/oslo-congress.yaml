@@ -11,7 +11,7 @@ data:
   security_service: null
   viewing_quality: null
   seating_quality: null
-  village_spaces: null
+  village_spaces: 8
   sponsor_spaces: null
   social_area_capacity: null
   cost_per_person: null
@@ -31,8 +31,51 @@ data:
   loading_access: null
 
 notes: |
-  Part of Oslo Kongressenter Folkets Hus, established 1907. Congress Hall: 400-1600.
-  Located at Youngs gate 21, downtown Oslo. Full-service with food & beverage.
-  Likely expensive — large professional congress center. Need formal quote.
-  Multiple conference rooms suggest good village/breakout potential.
-  Historic building but more corporate feel than cultural venues.
+  RESEARCHED: Website deep-dive (oslokongressenter.no), Cvent listing.
+
+  CONTACT: Via website form (oslokongressenter.no)
+  ADDRESS: Youngs gate 21, downtown Oslo
+  Part of Oslo Kongressenter Folkets Hus, established 1907.
+  Professional full-service congress center. 3D virtual tours available online.
+
+  ## Congress Hall (largest space):
+  - 1000 m², capacity 400-1600 depending on setup
+  - Motorized ceiling rig for equipment suspension
+  - Suitable for large conferences, exhibitions, banquets
+
+  ## Sal B:
+  - Bright, airy hall with large windows, good ceiling height
+  - 390+ capacity (part of Kongresshallen)
+  - Light and well-ventilated
+
+  ## Sal B+C combined:
+  - Can be split or combined — flexible partition
+  - 800+ combined capacity
+
+  ## Additional rooms across 3 floors:
+  Multiple meeting rooms, conference rooms, and banquet rooms.
+  Full 3D virtual tours available on website for all rooms.
+  Good village/breakout potential with 8+ separate spaces.
+
+  ## Food & Beverage:
+  Full-service in-house catering and restaurant.
+  Extensive banquet facilities and large-event experience.
+
+  ## Strengths for BSides:
+  - 400-1600 capacity Congress Hall — meets requirement with massive headroom
+  - 8+ rooms for villages and sponsor spaces
+  - Full-service: catering, AV, production, security
+  - Central downtown Oslo location
+  - Professional congress center — experienced with large events
+  - 3D virtual tours available — easy remote evaluation
+  - Motorized ceiling rig — excellent for AV production
+  - Good transport access (near Oslo S / Jernbanetorget)
+
+  ## Concerns:
+  - No pricing published — large professional centers are typically expensive
+  - Corporate feel — less BSides grassroots vibe than cultural venues
+  - May be overkill for 400-500 person event (designed for 1600)
+  - WiFi quality for CTF not documented
+  - Security service details not published
+  - Seating and viewing quality not specified — need site visit
+  - Could be significantly over budget given the scale

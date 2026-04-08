@@ -28,11 +28,29 @@ data:
   single_venue: true
   green_room: null
   av_equipment: true
-  loading_access: null
+  loading_access: true
 
 notes: |
-  Large conference center at Ullevål Stadion. Professional venue.
-  Likely expensive — major conference facility. Need capacity and pricing details.
-  Good public transport (T-bane to Ullevål stadion).
-  Sports stadium setting — very different vibe from Vulkan.
-  Probably overkill for BSides size, but worth checking capacity and cost.
+  RESEARCHED: Website (meet-ullevaal.no), general knowledge.
+
+  ADDRESS: Connected to Ullevaal Stadium, Oslo
+  Professional conference center at Norway's national football stadium.
+  Multiple conference rooms with professional AV, in-house catering, bar service.
+
+  NOTE: Exact capacity of largest conference room not found on website.
+  The venue is designed for corporate events and conferences of various sizes.
+  Ullevaal is well-connected by T-bane (metro line 3/5 to Ullevål stadion).
+
+  ## Concerns:
+  - Exact arena capacity unknown — must verify meets 400 threshold
+  - Stadium setting — very different vibe from cultural venues
+  - Likely overkill for BSides size
+  - Location is good (T-bane) but not central Oslo
+  - Sports/conference hybrid feel may not match BSides identity
+  - No pricing available on website
+
+  ## Assessment:
+  LOW PRIORITY. While professional and well-equipped, the stadium setting
+  and unknown capacity make this a lower priority. The corporate sports
+  venue atmosphere doesn't match BSides grassroots identity. Worth a
+  quote request only if other options fall through.
