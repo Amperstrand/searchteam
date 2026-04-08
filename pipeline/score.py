@@ -36,8 +36,9 @@ def resolve_venue_data(raw: dict) -> dict:
     return raw
 
 
-def check_must_haves(venue_data: dict, criteria: list[dict]) -> list[dict]:
+def check_must_haves(venue_data: dict, criteria: list[dict]) -> tuple[list[dict], list[dict]]:
     failures = []
+    unknowns = []
     for c in criteria:
         if c["requirement"] != "must":
             continue
@@ -46,7 +47,7 @@ def check_must_haves(venue_data: dict, criteria: list[dict]) -> list[dict]:
         threshold = c["threshold"]
 
         if val is None:
-            failures.append({"id": cid, "label": c["label"], "reason": "no data"})
+            unknowns.append({"id": cid, "label": c["label"], "reason": "no data"})
             continue
 
         if isinstance(threshold, bool):
@@ -58,7 +59,7 @@ def check_must_haves(venue_data: dict, criteria: list[dict]) -> list[dict]:
                     "id": cid, "label": c["label"],
                     "reason": f"{val} < {threshold} {c.get('unit', '')}",
                 })
-    return failures
+    return failures, unknowns
 
 
 def score_criterion(c: dict, val) -> tuple[float, str]:
@@ -93,13 +94,28 @@ def score_criterion(c: dict, val) -> tuple[float, str]:
 
 
 def score_venue(venue_data: dict, criteria: list[dict]) -> dict:
-    must_failures = check_must_haves(venue_data, criteria)
+    must_failures, must_unknowns = check_must_haves(venue_data, criteria)
+
     if must_failures:
         return {
             "name": venue_data.get("name", "unknown"),
             "slug": venue_data.get("slug", "unknown"),
             "status": "DISQUALIFIED",
             "must_failures": must_failures,
+            "must_unknowns": must_unknowns,
+            "total_score": 0,
+            "max_score": 0,
+            "pct": 0,
+            "categories": {},
+        }
+
+    if must_unknowns:
+        return {
+            "name": venue_data.get("name", "unknown"),
+            "slug": venue_data.get("slug", "unknown"),
+            "status": "NEEDS RESEARCH",
+            "must_failures": [],
+            "must_unknowns": must_unknowns,
             "total_score": 0,
             "max_score": 0,
             "pct": 0,
@@ -148,12 +164,17 @@ def score_venue(venue_data: dict, criteria: list[dict]) -> dict:
 
 
 def print_scores(result: dict):
-    status_marker = {"DISQUALIFIED": "✖", "current": "●", "rejected": "✗", "considered": "◐", "candidate": "○"}.get(result["status"], "?")
+    status_marker = {"DISQUALIFIED": "✖", "NEEDS RESEARCH": "?", "current": "●", "rejected": "✗", "considered": "◐", "candidate": "○"}.get(result["status"], "?")
     print(f"\n{status_marker} {result['name']}  [{result['slug'].upper()}]  — {result['status']}")
 
     if result["status"] == "DISQUALIFIED":
         for f in result["must_failures"]:
             print(f"  ✖ BLOCKED: {f['label']} ({f['reason']})")
+        return
+
+    if result["status"] == "NEEDS RESEARCH":
+        for u in result.get("must_unknowns", []):
+            print(f"  ? UNKNOWN: {u['label']} ({u['reason']})")
         return
 
     print(f"  Score: {result['total_score']:.1f} / {result['max_score']}  ({result['pct']}%)\n")
@@ -211,12 +232,31 @@ def main():
     for r in results:
         print_scores(r)
 
-    qualified = [r for r in results if r["status"] != "DISQUALIFIED"]
+    tier_order = {"DISQUALIFIED": 2, "NEEDS RESEARCH": 1}
+    results.sort(key=lambda r: (tier_order.get(r["status"], 0), -r.get("pct", 0)))
+
+    qualified = [r for r in results if r["status"] not in ("DISQUALIFIED", "NEEDS RESEARCH")]
+    needs_research = [r for r in results if r["status"] == "NEEDS RESEARCH"]
+    disqualified = [r for r in results if r["status"] == "DISQUALIFIED"]
+
     if qualified:
         print(f"\n{'─' * 70}")
-        print("RANKING")
+        print("RANKING — QUALIFIED")
         for i, r in enumerate(qualified, 1):
             print(f"  {i}. {r['name']:40s} {r['pct']:5.1f}%  ({r['slug']})")
+
+    if needs_research:
+        print(f"\n{'─' * 70}")
+        print("RANKING — NEEDS RESEARCH")
+        for i, r in enumerate(needs_research, 1):
+            print(f"  {i}. {r['name']:40s} {'—':>5s}     ({r['slug']})")
+
+    if disqualified:
+        print(f"\n{'─' * 70}")
+        print("DISQUALIFIED")
+        for r in disqualified:
+            fails = ", ".join(f['label'] for f in r["must_failures"])
+            print(f"  ✖ {r['name']:40s} ({r['slug']})  — {fails}")
 
 
 if __name__ == "__main__":
