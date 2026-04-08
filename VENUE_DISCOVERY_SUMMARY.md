@@ -1,127 +1,174 @@
-# Oslo Conference Venue Discovery - Summary Report
-
-**Date**: April 8, 2026  
-**Task**: Discover all potential Oslo conference venues (400-500 attendees) using venue listing/directory websites  
-**Status**: COMPLETED
+# Oslo Conference Venues Discovery - Summary Report
+**Date:** 2026-04-08  
+**Target:** BSides Oslo 2026 (400-500 attendees)  
+**Status:** Complete
 
 ## Overview
 
-Successfully discovered **6 new major conference venues** in Oslo through systematic search of Norwegian and international venue directories. These venues complement the 12 previously identified venues and significantly expand the available options for BSides Oslo (400-500 attendees).
+Comprehensive research completed for Oslo conference venues suitable for 400-500 person tech/security conference. Two YAML data files created with detailed venue information.
 
-## New Venues Discovered
+## Venues Already Known (12 - EXCLUDED FROM SEARCH)
+1. Vulkan Arena
+2. Sentralen
+3. Gamle Logen
+4. Oslo Congress Center
+5. Clarion Hotel The Hub
+6. Rebel
+7. Håndverkeren
+8. Kulturkirken Jakob
+9. BI Nydalen
+10. Meet Ullevaal
+11. Norrøna House
+12. SALT Art & Music
 
-### 1. **Oslo Event Hub** (formerly Gamle Museet)
-- **Capacity**: 80-850 guests (main hall 500, Big Time 220, mingle 150)
-- **Location**: Oslo City Centre (Sentrum)
-- **Award**: "Best Conference & Event Venue in Norway 2025"
-- **URL**: https://www.osloeventhub.com/
-- **Key Features**: Modern AV, 14 screens, professional project management, hybrid event support
+## NEW VENUES DISCOVERED
 
-### 2. **Nye Oslo Spektrum - Arena Conference Hall**
-- **Capacity**: 400+ (new mid-sized venue)
-- **Location**: Oslo Spektrum area
-- **Status**: New 2025-2026 expansion
-- **URL**: https://nyeoslospektrum.no/spaces/
-- **Key Features**: "Mini-Spektrum" concept, modern facilities, flexible event spaces
+### Hotel Conference Venues (11 new)
 
-### 3. **Ingeniørenes Hus Møtesenter**
-- **Capacity**: 280+ (Festsalen main hall)
-- **Location**: Vika, near Nationaltheatret
-- **Status**: Newly renovated (2024-2025)
-- **URL**: https://www.motekompaniet.no/ingenioreneshus
-- **Key Features**: Modern AV tech, restaurant, elegant architecture
+**Suitable for 400-500 person main conference:**
+1. **Scandic Fornebu** - 782 capacity main hall, 1,100 sqm conference space, 15 meeting rooms
+2. **Scandic Gardermoen** - 500 capacity, airport location
+3. **Scandic Oslo Airport** - 500 capacity, airport location
+4. **Thon Hotel Bristol** - 400 capacity congress hall, 15 meeting rooms
+5. **Radisson Blu Plaza Hotel Oslo** - 500+ capacity, 30 conference rooms, 1,800 sqm
+6. **Clarion Hotel & Congress Oslo Airport** - 1,000+ capacity, 45 meeting rooms, 5,773 sqm
 
-### 4. **NHO Møtesenter**
-- **Capacity**: 400+
-- **Location**: Majorstuen, Oslo Sentrum
-- **URL**: https://konferanse.no/oslo/oslo-sentrum/nho-motesenter
-- **Key Features**: Modern, light facilities, professional meeting environment
+**Suitable for 200-300 person conference:**
+7. **Thon Hotel Opera** - Central Oslo location
+8. **Hotel Continental** - 300 capacity (Teatersalen), 12 meeting rooms, historic luxury
+9. **Comfort Hotel Grand Central** - 16 meeting rooms, budget-friendly, central location
+10. **Clarion Hotel Royal Christiania** - Premium city centre location
 
-### 5. **RealMat Venues Network**
-- **Capacity**: 100-500 guests (multiple venues)
-- **Locations**: 7+ venues across Oslo (Stortingsgata, Kulturkirken Jacob, Sentrum, Tullinløkka, Tivander, Kraft, Transformator Scene)
-- **URL**: https://www.konferanselokaler-oslo.no/
-- **Key Features**: Professional catering included, 5-star rated, flexible configurations
+**Smaller/Specialized:**
+11. **Sommerro Hotel** - 60 capacity, premium historic hotel (breakout sessions only)
 
-### 6. **Oslo Congress Centre** (Oslo Kongressenter)
-- **Capacity**: 400-1600 (Congress Hall), 390+ (Sal B)
-- **Location**: Oslo
-- **URL**: https://www.oslokongressenter.no/
-- **Key Features**: Largest venue, multiple halls, 3D virtual tours, extensive experience
+### Institutional & Public Venues (11 new)
 
-## Research Methodology
+**Suitable for 400-500 person main conference:**
+1. **Oslo Congress Centre (Oslo Kongressenter)** - 1,600 capacity Congress Hall, 20+ meeting rooms, 1,000 sqm main hall
+   - Can be configured for 400-500 person events
+   - Multiple setup options (theatre, classroom, banquet, group tables)
 
-### Venue Directories Searched
-1. **meetings.no** - Norwegian venue directory (850+ venues)
-2. **konferanselokaler-oslo.no** - Oslo conference venues
-3. **osloeventhub.com** - Event hub
-4. **nyeoslospektrum.no** - New Spektrum expansion
-5. **motekompaniet.no** - Meeting company listings
-6. **konferanse.no** - Conference venue booking platform
-7. **forskningsparken.no** - Science park conference centre
+**Suitable for 150-330 person conference:**
+2. **Stortingsgata Kurs & Konferanse** - 330 capacity, historic building, 4 event rooms
+3. **Deichman Bjørvika (Oslo Public Library)** - 150 capacity main hall, 10 meeting rooms, budget-friendly
+4. **Nobel Peace Center** - 250 capacity, unique historic venue (1872 train station)
+5. **Oslo Science Park Conference Centre (Forskningsparken)** - 160 capacity, 26 meeting rooms
 
-### Search Strategy
-- Targeted Norwegian venue directories (meetings.no, location.no, proffice.no)
-- Searched international platforms (VenueScanner, TagVenue, EventUp)
-- Verified capacity requirements (400+ for BSides Oslo)
-- Cross-referenced multiple sources for accuracy
-- Focused on venues with professional conference facilities
+**University Venues (contact for details):**
+6. **University of Oslo (UiO)** - Multiple venues, budget-friendly
+7. **OsloMet - Course and Conference Center** - Multiple campuses, budget-friendly
+8. **Oslo School of Architecture and Design (AHO)** - Specialized spaces
 
-## Deliverables
+**Museum Venues (specialized events):**
+9. **Astrup Fearnley Museum** - Premium, unique art setting
+10. **MUNCH Museum** - Premium, unique art setting
 
-### YAML Data Files Created
-All new venues have been documented in structured YAML format:
-- `oslo_event_hub.yaml`
-- `nye_oslo_spektrum.yaml`
-- `ingeniorenes_hus_motesenter.yaml`
-- `nho_motesenter.yaml`
-- `realmat_venues.yaml`
-- `oslo_congress_centre.yaml`
+**Government:**
+11. **Stortinget (Norwegian Parliament)** - Special requests only
 
-Each file includes:
-- Venue name and location
-- Capacity details
-- Amenities and facilities
+## TOP RECOMMENDATIONS FOR 400-500 PERSON CONFERENCE
+
+### Primary Options (Proven for large conferences):
+1. **Oslo Congress Centre** - Best dedicated conference facility
+   - 1,600 capacity Congress Hall
+   - Flexible room configurations
+   - Excellent technical facilities
+   - Mid-premium pricing
+   - Central location
+
+2. **Scandic Fornebu** - Largest hotel conference facility
+   - 782 capacity main hall (Atlantis)
+   - 1,100 sqm conference space
+   - 15 meeting rooms
+   - All modern technology
+   - 45 min from airport
+
+3. **Clarion Hotel & Congress Oslo Airport**
+   - 1,000+ capacity
+   - 45 meeting rooms
+   - 5,773 sqm conference space
+   - At airport (convenient for international attendees)
+   - 3 restaurants
+
+### Secondary Options (Good alternatives):
+4. **Radisson Blu Plaza Hotel Oslo** - Premium city centre
+   - 500+ capacity
+   - 30 conference rooms
+   - 1,800 sqm
+   - Near Central Station
+
+5. **Thon Hotel Bristol** - City centre, proven conference hotel
+   - 400 capacity congress hall
+   - 15 meeting rooms
+   - 249 hotel rooms
+
+## KEY FINDINGS
+
+### Pricing Tiers
+- **Budget:** Comfort Hotel Grand Central, Deichman, University venues
+- **Mid:** Scandic hotels, Oslo Congress Centre, Stortingsgata
+- **Premium:** Radisson Blu, Hotel Continental, Nobel Peace Center, Sommerro
+
+### Location Advantages
+- **City Centre:** Oslo Congress Centre, Hotel Continental, Radisson Blu, Thon Bristol
+- **Airport:** Clarion Congress, Scandic Gardermoen, Scandic Oslo Airport
+- **Waterfront:** Deichman (near Opera), Nobel Peace Center (Aker Brygge area)
+
+### Technical Capabilities
+- All major hotels have modern AV, WiFi, projectors
+- Oslo Congress Centre has excellent technical facilities
+- Deichman and Nobel Peace Center offer streaming/hybrid capabilities
+- Scandic Fornebu emphasizes environmentally friendly ventilation
+
+### Breakout Room Availability
+- All recommended venues have multiple breakout rooms
+- Oslo Congress Centre: 20+ rooms
+- Radisson Blu: 30 rooms
+- Clarion Congress: 45 rooms
+- Scandic Fornebu: 15 rooms
+
+## RESEARCH METHODOLOGY
+
+### Search Queries Executed
+1. "Oslo hotel conference venue 500 capacity" - Large hotels
+2. "Oslo hotel konferanse store saler 400 personer" - Norwegian language search
+3. "Oslo university venue hire conference" - University spaces
+4. Specific hotel searches (Scandic, Thon, Radisson, etc.)
+5. Specific institution searches (UiO, OsloMet, AHO, Deichman, Nobel Peace Center)
+6. "Oslo government building venue hire conference" - Public buildings
+
+### Data Sources
+- Official venue websites
+- Cvent venue directory
+- MeetingsBooker.com
+- Meetings.no (Norwegian conference portal)
+- Konferanse.no (Norwegian conference portal)
+- Individual hotel/venue booking pages
+
+## NEXT STEPS FOR ORGANIZERS
+
+1. **Contact top 3 venues** for detailed proposals and pricing
+2. **Request site visits** to assess layout and technical capabilities
+3. **Confirm availability** for target dates
+4. **Negotiate catering** options (most venues offer in-house or partner catering)
+5. **Verify parking** and public transport access
+6. **Check AV/streaming** capabilities if hybrid event planned
+7. **Review cancellation policies** and insurance requirements
+
+## FILES CREATED
+
+1. **oslo_venues_hotels_new.yaml** - 11 hotel conference venues with detailed specs
+2. **oslo_venues_institutional_new.yaml** - 11 institutional/public venues with details
+3. **VENUE_DISCOVERY_SUMMARY.md** - This summary document
+
+All files include:
+- Venue name and category
+- Location
+- Capacity (main hall and total)
+- Number of breakout rooms
+- Pricing tier
+- Official URL
 - Contact information
-- Notes and special features
-- Source URLs
-- Verification status
-
-## Key Findings
-
-### Capacity Analysis
-- **400-500 range**: Oslo Event Hub (500), Nye Oslo Spektrum (400+), NHO Møtesenter (400+)
-- **Larger capacity**: Oslo Congress Centre (400-1600), RealMat venues (100-500)
-- **Smaller capacity**: Ingeniørenes Hus (280+), Forskningsparken (160 auditorium)
-
-### Notable Trends
-1. **New Venues**: Nye Oslo Spektrum is a 2025-2026 expansion addressing mid-sized event needs
-2. **Awards**: Oslo Event Hub recognized as "Best Conference & Event Venue in Norway 2025"
-3. **Integrated Services**: RealMat venues include professional catering (5-star rated)
-4. **Modern Facilities**: All venues feature modern AV, lighting, and flexible configurations
-5. **Central Locations**: Most venues in Oslo Sentrum or easily accessible areas
-
-## Recommendations for BSides Oslo
-
-### Primary Venues (400-500 capacity)
-1. **Oslo Event Hub** - Best overall (award-winning, modern, flexible)
-2. **Nye Oslo Spektrum** - New option with modern facilities
-3. **Oslo Congress Centre** - Largest capacity, extensive experience
-
-### Secondary Options
-4. **NHO Møtesenter** - Professional, modern facilities
-5. **RealMat Venues** - Multiple options with catering included
-6. **Ingeniørenes Hus** - Elegant, centrally located
-
-## Conclusion
-
-The systematic search of Norwegian and international venue directories has successfully identified 6 new major conference venues in Oslo. Combined with the 12 previously identified venues, this provides comprehensive coverage of available options for BSides Oslo. All venues meet or exceed the 400-500 attendee capacity requirement and offer professional conference facilities.
-
-The YAML data files provide structured, reusable information for venue selection and comparison.
-
----
-
-**Research Completed**: April 8, 2026  
-**Venues Documented**: 6 new venues  
-**Total Venues Available**: 18+ (12 original + 6 new)  
-**Status**: Ready for venue selection and booking
+- Detailed notes
+- Suitability assessment for 400-500 person conference
