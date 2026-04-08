@@ -1,0 +1,74 @@
+name: "Klubben / Røverstaden"
+slug: klubben-roverstaden
+url: "https://oslokonserthus.no/arrangere"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 400
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: excellent
+  sponsor_attractiveness: fair
+  transport_access: excellent
+  dinner_capacity: 200
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: false
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Oslo Konserthus booking page (oslokonserthus.no).
+  Part of Oslo Konserthus / Røverstaden venue group. No physical visit.
+
+  CONTACT: Terje Bontveit (avdelingsleder), 918 61 693
+  Booking: +47 23 11 31 00
+  Oslo Konserthus, Munkedamsveien 14, 0250 Oslo
+
+  ## Overview:
+  Club/concert venue at Røverstaden, managed by Oslo Konserthus. Intimate layout
+  that creates closeness to stage. Available for conferences, seminars, kick-offs,
+  and corporate events.
+
+  ## Capacity:
+  - Standing: 600
+  - Seated long tables: 200
+  - Theatre style: 300-400
+  - Mingling / high-table: 350-400
+
+  ## Technical:
+  Professional sound and lighting (concert-grade). Stage and AV equipment available.
+  Managed by Oslo Konserthus — professional in-house technical team.
+
+  ## Catering:
+  All catering through Fursetgruppen (exclusive rights at Oslo Konserthus venues).
+  High-end catering from light refreshments to full banquets.
+
+  ## Strengths for BSides:
+  - Theatre seating 300-400 meets capacity requirement
+  - Excellent concert-grade sound and lighting
+  - Central Oslo location (Vika, near Nationaltheatret)
+  - Bar service + Fursetgruppen catering
+  - Club atmosphere fits BSides grassroots vibe
+  - Professional venue management
+
+  ## Concerns:
+  - No public pricing — must request quote
+  - Primarily a concert/club venue — may not have village breakout spaces
+  - Single room — no obvious village/sponsor area unless foyer used
+  - Shared building with Oslo Konserthus (other events may run concurrently)
+  - Seating quality unknown for all-day conference (club venue)
+  - Loading/equipment access details unknown

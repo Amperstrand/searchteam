@@ -1,0 +1,58 @@
+name: "NydalenHUB"
+slug: nydalenhub
+url: "https://venueful.com/norway/oslo/nydalenhub"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 500
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: fair
+  sponsor_attractiveness: fair
+  transport_access: good
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: venueful.com listing only. No dedicated website found.
+  No physical visit — no quote received.
+
+  CONTACT: Unknown — listed on venueful.com only
+  Rolf Wickstrøms vei 15B, 0484 Oslo (Nydalen)
+
+  ## Overview:
+  Flexible venue for conferences, events, weddings, concerts, and meetings
+  with capacity up to 500 people. Located in Nydalen, a modern business
+  district in northern Oslo.
+
+  ## Strengths for BSides:
+  - 500 capacity meets threshold exactly
+  - Flexible layout (conference, event, concert configurations)
+  - Nydalen is well-connected by T-bane (5 min from city center)
+
+  ## Concerns:
+  - Very limited information available — only venueful.com listing
+  - No dedicated website to evaluate
+  - Business district atmosphere — poor BSides vibe fit
+  - No details on breakout rooms, village spaces, or sponsor areas
+  - Catering/bar service listed but details unknown
+  - Weekend availability unknown
+  - Need to contact for quote and room details
+  - NEXT STEP: Find direct contact info and request details

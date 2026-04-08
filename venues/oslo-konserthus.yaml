@@ -1,0 +1,81 @@
+name: "Oslo Konserthus (Store Sal)"
+slug: oslo-konserthus
+url: "https://oslokonserthus.no/booking-english"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 1404
+  sound_light: true
+  network: true
+  security_service: true
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 3
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: fair
+  atmosphere: good
+  sponsor_attractiveness: excellent
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: true
+  green_room: true
+  av_equipment: true
+  loading_access: true
+
+notes: |
+  RESEARCHED: Oslo Konserthus booking page (oslokonserthus.no).
+  No physical visit — no quote received.
+
+  CONTACT: Silja Sakrisvold Borse (Bookingsjef), +47 415 34 610
+  Stine Haugen (Booking), +47 415 34 614
+  Oslo Konserthus, Munkedamsveien 14, 0250 Oslo
+  Catering: Fursetgruppen (exclusive), Stine Sørum, +47 23 11 31 50
+
+  ## Overview:
+  One of Norway's leading venues for music and cultural events. Home of the
+  Oslo Philharmonic. Located in Vika, central Oslo. Professional operation
+  with in-house technicians, hosts, security, and cloakroom for all guests.
+
+  ## Rooms:
+  Store Sal: 1,404 seats (stalls + balcony), stage 13m deep × 13-22m wide
+  Lille Sal: 266 auditorium / 300 standing, 250m², stage 4×9m, 200/200Mbps internet
+  Glasshuset: 280 standing / 250 seated, 364m², glass pavilion floating above street
+  Klubben/Røverstaden: 600 standing / 300-400 theatre (separate location)
+  Multiple foyers across several levels for exhibitions, catering, social areas
+
+  ## Breakout potential:
+  Lille Sal (266) + Glasshuset (280) could serve as village/overflow spaces.
+  Large foyers could host sponsor booths and social areas.
+
+  ## Technical:
+  World-class acoustics. Professional sound, lighting, AV.
+  In-house technical team. Ticketing through Tixly (mandatory for ticketed events).
+  Marketing packages available.
+
+  ## Strengths for BSides:
+  - Massive capacity with room for growth far beyond 500
+  - World-class sound and acoustics
+  - Professional venue with full service (security, cloakroom, catering)
+  - Multiple rooms for villages/breakouts (Lille Sal, Glasshuset, foyers)
+  - Central location near Nationaltheatret
+  - Green room/backstage facilities
+  - High-speed internet confirmed (200/200 Mbps in Lille Sal)
+  - Fursetgruppen catering (high-end, reliable)
+
+  ## Concerns:
+  - Almost certainly too expensive — premium concert hall
+  - 1404 seats is massive overkill for 400-500 (may feel empty)
+  - Concert hall fixed seating — limited layout flexibility
+  - Very formal/prestigious atmosphere — poor BSides vibe fit
+  - Lille Sal at 266 is below threshold for main stage
+  - No public pricing — likely very high
+  - EXCLUSIVE catering through Fursetgruppen — no external caterers allowed
+  - Likely not available on weekends (Oslo Philharmonic schedule)

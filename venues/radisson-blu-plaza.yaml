@@ -1,0 +1,55 @@
+name: "Radisson Blu Plaza Hotel"
+slug: radisson-blu-plaza
+url: "https://www.radissonhotels.com/en-us/hotel-oslo/plaza-oslo"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: good
+  atmosphere: poor
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Cvent listing, venueful.com. No physical visit.
+
+  CONTACT: Listed via Cvent and hotel booking channels.
+  Holbergs plass, 0166 Oslo (adjacent to Oslo S / central station).
+
+  ## Overview:
+  Large business hotel with 678 guest rooms and 30+ meeting rooms.
+  19,902 sq ft meeting space. One of Oslo's largest hotel conference venues.
+
+  ## Strengths for BSides:
+  - Massive meeting space with many breakout rooms
+  - Adjacent to Oslo S — best transport access possible
+  - Full hotel services (catering, accommodation, cloakroom)
+  - Professional AV and conference facilities
+
+  ## Concerns:
+  - Corporate hotel atmosphere — poor BSides vibe fit
+  - Likely expensive — premium hotel conference pricing
+  - No details on largest single room capacity (may not have 400+ in one room)
+  - Need to verify largest auditorium/conference room capacity
+  - Multiple small meeting rooms but may lack single large hall
+  - NEXT STEP: Contact for largest room capacity and pricing

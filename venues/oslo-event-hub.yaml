@@ -1,0 +1,69 @@
+name: "Oslo Event Hub"
+slug: oslo-event-hub
+url: "https://www.osloeventhub.com"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 850
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: good
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (osloeventhub.com), venueful.com listing.
+  Awarded "Norway's best conference and event venue" (World Luxury Travel Awards 2025).
+  No physical visit — no quote received.
+
+  CONTACT: hello@osloeventhub.com, +47 22 42 13 00
+  Part of byOSLO group (BA3, Nedre Løkka, F6, Justisen, Libertine, Michaels, BOX).
+
+  ## Overview:
+  Former museum (Gamle Museet) completely renovated 2022. 2000m² event space
+  in central Oslo at Dronningens gate 4. Total capacity up to 850 guests.
+  Top-modern technical equipment with striking light installations.
+
+  ## Capacity:
+  Up to 850 guests total. Multiple room configurations possible.
+  Conference, seminar, workshop, exhibition, and party formats supported.
+  Can do full-day conference followed by evening event in same space.
+
+  ## Technical:
+  Top-modern AV equipment. Digital and hybrid event capabilities.
+  Full technical equipment list available on their website.
+
+  ## Strengths for BSides:
+  - Very large capacity (850) with room to grow
+  - Central Oslo location (Dronningens gate 4, near Oslo S)
+  - Award-winning venue — professional operation
+  - Flexible layout for day conference + evening party
+  - Modern technical equipment included
+  - Major corporate clients (DNB, Storebrand, IKEA, KLP) — proven track record
+
+  ## Concerns:
+  - No public pricing — must request quote
+  - Award-winning/luxury branding may mean high cost
+  - Corporate party venue — may lack the grassroots BSides vibe
+  - Village/sponsor space layout unclear — single large hall?
+  - Weekend availability unknown (popular for corporate julebord)
+  - Need to verify WiFi quality for security conference use

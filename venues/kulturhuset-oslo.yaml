@@ -1,0 +1,79 @@
+name: "Kulturhuset i Oslo"
+slug: kulturhuset-oslo
+url: "https://www.kulturhusetioslo.no/arrangementlokaler"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 350
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 3
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: excellent
+  sponsor_attractiveness: fair
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (kulturhusetioslo.no), venueful.com listing.
+  No physical visit — no quote received.
+
+  CONTACT: book@kulturhusetioslo.no
+  Youngs gate 6, 0181 Oslo
+  Opening hours: Tue-Thu 10-22, Fri-Sat 10-03, closed Mon/Sun
+  20-year age limit on entire venue.
+
+  ## Overview:
+  Cultural venue in Grünerløkka/Sofienberg area with multiple rooms across
+  three floors, four bars. Five rooms available for events: concerts, seminars,
+  book launches, debates, meetings, and parties.
+
+  ## Rooms:
+  Hovedrommet: 350 standing / 180 seated, stage ~5×4m (expandable to 6×4m),
+    professional sound & light, not available weekend evenings
+  Boksen: 120 standing / 90 seated, high ceiling, professional sound & light,
+    not available weekend evenings
+  Laboratoriet: 120 standing / 90 seated, overlooking greenhouse, largest screen
+    in house, not available weekend evenings
+  Spillbaren: Board games, stage, projectors, own bar, configurable room
+  Det Hemmelige Rommet: Small meeting room, whiteboard, screen, ~10 people
+
+  ## Village potential:
+  4 rooms (Boksen, Laboratoriet, Spillbaren, Det Hemmelige Rommet) could serve
+  as village/breakout spaces when Hovedrommet is used for main stage.
+
+  ## Strengths for BSides:
+  - Multiple rooms in one building — good for villages
+  - Creative/cultural atmosphere fits BSides grassroots vibe
+  - Young, hip venue in trendy Grünerløkka area
+  - Professional sound/light on main stage
+  - Four bars and in-house catering available
+  - In-house restaurant (Matbaren)
+  - Relatively affordable for a cultural venue (estimate)
+
+  ## Concerns:
+  - Main room only 180 seated / 350 standing — BELOW 400 threshold
+  - No rooms individually meet the 400 capacity requirement
+  - Weekend evening availability restricted (main rooms)
+  - BSides is typically Saturday — may conflict with venue policy
+  - No public pricing
+  - 20-year age limit could exclude younger attendees
+  - WiFi quality unknown
+  - Sponsor booth space limited (cultural venue, not conference center)
+  - Loading/access for heavy AV equipment unknown

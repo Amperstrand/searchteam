@@ -1,0 +1,57 @@
+name: "Litteraturhuset (The House of Literature)"
+slug: litteraturhuset
+url: "https://www.litteraturhuset.no"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: fair
+  atmosphere: excellent
+  sponsor_attractiveness: fair
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: venueful.com listing. No physical visit.
+
+  CONTACT: Via litteraturhuset.no website.
+  Wergelandsveien 29, 0167 Oslo (near Royal Palace).
+
+  ## Overview:
+  Literary/cultural venue that facilitates seminars, lectures, debates,
+  and cultural events. Multiple rooms available for external booking.
+  Well-established cultural institution in central Oslo.
+
+  ## Strengths for BSides:
+  - Cultural/academic atmosphere — intellectual vibe fits security conference
+  - Central location near Royal Palace
+  - Multiple rooms for potential breakout/village use
+  - Cafe and restaurant on-site
+  - Good transport access
+
+  ## Concerns:
+  - Largest room capacity unknown — likely below 400
+  - Primarily a literary venue — may not suit tech conference
+  - Limited information available
+  - May lack sponsor booth space
+  - Weekend availability unknown
+  - NEXT STEP: Check largest room capacity and request pricing

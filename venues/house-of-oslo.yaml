@@ -1,0 +1,53 @@
+name: "House of Oslo"
+slug: house-of-oslo
+url: "https://venueful.com/norway/oslo/house-of-oslo"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: good
+  atmosphere: fair
+  sponsor_attractiveness: excellent
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: venueful.com listing only. No physical visit.
+
+  CONTACT: Unknown — listed on venueful.com.
+  Ruseløkkveien 34, 0251 Oslo (Vika/Aker Brygge area).
+
+  ## Overview:
+  Conference and meeting venue opened late 2021. Available for board meetings,
+  conferences, and events. Located in modern Vika district.
+
+  ## Strengths for BSides:
+  - Modern venue with conference facilities
+  - Aker Brygge/Vika location — excellent transport
+  - New facilities with modern technical equipment
+
+  ## Concerns:
+  - Very limited information available
+  - Largest room capacity unknown
+  - Corporate atmosphere likely
+  - Need to verify capacity, pricing, and breakout room availability
+  - NEXT STEP: Find direct contact and request details
