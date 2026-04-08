@@ -1,0 +1,61 @@
+name: "Oslo Konserthus (Lille Sal)"
+slug: oslo-konserthus
+url: "https://oslokonserthus.no/booking-english"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 266
+  sound_light: true
+  network: true
+  security_service: true
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: good
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: true
+  green_room: true
+  av_equipment: true
+  loading_access: true
+
+notes: |
+  RESEARCHED: Website deep-dive (oslokonserthus.no booking page).
+
+  Oslo's leading venue for music and culture, also available for conferences.
+  Located at Munkedamsveien 14, Vika — heart of Oslo.
+
+  ## Lille Sal (Small Hall):
+  - 250m², highly versatile space
+  - Auditorium: 266, Theatre: 200, Classroom: 130
+  - Standing: 300 (no stage), 280 (with 7×4m stage)
+  - Banquet: 130 (long tables), 120 (round tables)
+  - 4×9m stage, high-speed internet (200/200 Mbps)
+  - Adjoining foyer for catering
+
+  ## Additional spaces:
+  - Glasshuset: 364m², 280 standing / 250 seated, basic sound system
+  - Store Sal (Main Hall): 1,404 seats — too large for BSides, but foyers useful
+  - Recording studio: 215m² with 6m ceiling, connected control room
+
+  ## Concerns:
+  - Lille Sal at 266 is below the 400-person threshold — DISQUALIFYING
+  - However, Klubben at Røverstaden (same building, separate venue) holds 600
+  - No pricing available publicly — must request quote
+  - Very professional venue, excellent acoustics
+  - Fursetgruppen exclusive catering — premium pricing expected
+  - Foyers are spacious for sponsor/exhibition areas
+
+  CONTACT: Silja Sakrisvold Borse +47 415 34 610, ok@oslokonserthus.no
+  Source: oslokonserthus.no (2026-04-08)

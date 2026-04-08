@@ -1,0 +1,65 @@
+name: "Litteraturhuset (House of Literature)"
+slug: litteraturhuset
+url: "https://www.litteraturhuset.no/en/rent-a-room"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 200
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 3
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: false
+  layout_flexibility: fair
+  atmosphere: excellent
+  sponsor_attractiveness: fair
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (litteraturhuset.no/en/rent-a-room).
+
+  Europe's largest house of literature. Multiple stages and rooms for rent.
+  Located at Wergelandsveien 29, 0167 Oslo — near Majorstuen/Royal Palace.
+
+  ## Wergeland (Main Hall):
+  - Ground floor, up to 200 people
+  - Main auditorium with professional AV
+
+  ## Other Rooms:
+  - Multiple rooms of various sizes and characters
+  - Total capacity across building: ~180 for events (per selskapslokaler-oslo.no)
+  - 20+ rooms total
+
+  ## Characteristics:
+  - Intellectual/cultural atmosphere — great for knowledge-sharing events
+  - Professional tech, sound, and lighting equipment
+  - Bar/restaurant on premises
+  - Note: "spiseplikt" (catering obligation) — must use their catering
+  - Regular host of debates, seminars, book launches
+
+  ## Concerns:
+  - Wergeland at 200 is well below 400 threshold — DISQUALIFYING
+  - No single room large enough for main stage
+  - Cultural venue — not designed for tech conferences
+  - "Spiseplikt" means forced catering vendor
+  - No public pricing — fees/terms on separate page
+  - Shared venue — public events run alongside private rentals
+  - Limited exhibition/sponsor space
+
+  CONTACT: Via website (litteraturhuset.no/en/rent-a-room)
+  Source: litteraturhuset.no (2026-04-08)

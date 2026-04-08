@@ -1,0 +1,68 @@
+name: "Oslo Science Park (Forskningsparken)"
+slug: oslo-science-park
+url: "https://www.forskningsparken.no/en/conference-centre"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 160
+  sound_light: true
+  network: true
+  security_service: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 5
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: fair
+  sponsor_attractiveness: good
+  transport_access: good
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: false
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (forskningsparken.no/en/conference-centre), venueful.com.
+
+  Meeting place for 300+ businesses — incubators, clusters, research, academia.
+  3,000 people work here plus event/meeting participants daily.
+  Located at Gaustadalléen 21, 0349 Oslo — Ullevål/Nydalen area.
+
+  ## Facilities:
+  - 26 meeting rooms of various sizes
+  - Largest: Forum auditorium — 160 people
+  - 3 flexible event spaces
+  - Glass Hall outside Forum for exhibitions
+  - Full-service provider (catering, tech, planning)
+
+  ## Forum (Main Auditorium):
+  - Up to 160 people, amphitheatre
+  - Large mingling area for breaks
+  - Glass Hall for exhibitions
+
+  ## Characteristics:
+  - Tech/science environment — good fit for security/tech conference
+  - Modern facilities, well-equipped
+  - In-house catering
+  - Good for sponsor engagement (surrounded by tech companies)
+
+  ## Concerns:
+  - Forum at 160 is FAR below 400 threshold — DISQUALIFYING
+  - Largest room is only 160 — no single hall for main stage
+  - Location at Gaustadalléen is not city center (~15 min from Karl Johan)
+  - No bar service (corporate campus)
+  - Academic/corporate campus atmosphere
+  - Multiple small rooms could support multi-track but no plenary hall
+  - Would need a fundamentally different conference format
+
+  CONTACT: Via website (forskningsparken.no)
+  Source: forskningsparken.no, venueful.com (2026-04-08)

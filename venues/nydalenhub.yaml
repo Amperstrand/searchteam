@@ -1,0 +1,66 @@
+name: "NydalenHUB"
+slug: nydalenhub
+url: "https://nydalenhub.no/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 500
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 2
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: good
+  sponsor_attractiveness: fair
+  transport_access: good
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (nydalenhub.no), venueful.com listing.
+
+  Flexible venue for conferences, events, weddings, concerts, meetings.
+  Located at Rolf Wickstrøms vei 15B, 0484 Oslo (Nydalen).
+  Near the river Akerselva in Nydalen.
+
+  ## Capacity:
+  - Main hall: up to 500 people
+  - Back hall (Mellomsal): up to 50 people
+  - Can rent back hall separately or in combination with main hall
+
+  ## Spaces:
+  - Main hall with café and back hall available as combo
+  - Designed for different event types: conferences, workshops, cultural events, gatherings
+  - Modern facilities and flexible solutions
+
+  ## Characteristics:
+  - Community-focused venue in Nydalen area
+  - Good public transport (T-bane to Nydalen)
+  - By the river — nice setting for social areas
+  - Bar service and catering available
+
+  ## Concerns:
+  - Exact capacity for conference/theatre setup unconfirmed
+  - No public pricing — must request quote
+  - Nydalen is not city center — 10-15 min T-bane ride from Karl Johan
+  - Limited info on technical equipment
+  - Only 2 rooms (main + back) — limited village potential
+  - New venue with limited track record for tech conferences
+  - Main hall is likely open-plan — seating quality unknown
+
+  CONTACT: Via website contact form (nydalenhub.no)
+  Source: nydalenhub.no, venueful.com (2026-04-08)

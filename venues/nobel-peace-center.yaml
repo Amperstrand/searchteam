@@ -1,0 +1,57 @@
+name: "Nobel Peace Center"
+slug: nobel-peace-center
+url: "https://www.nobelpeacecenter.org/en/about-us/venue-hire"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: null
+  security_service: true
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: fair
+  atmosphere: excellent
+  sponsor_attractiveness: excellent
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: false
+  bar_service: false
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (nobelpeacecenter.org/en/about-us/venue-hire).
+
+  "Oslo's most unique meeting place" — hosts Nobel Peace Prize laureates annually.
+  Located by Aker Brygge, Rådhusplassen 1, 0151 Oslo.
+
+  ## Characteristics:
+  - Museum/event space with world-class art exhibitions
+  - Unique setting surrounded by Nobel Prize history
+  - Attracts leaders and people who change the world
+  - Central waterfront location
+
+  ## Concerns:
+  - Capacity unknown — likely museum-scale, not conference-scale
+  - No dedicated conference rooms — adapted museum spaces
+  - External catering required (no in-house)
+  - No bar service
+  - Very high-profile venue — likely very expensive
+  - Museum hours/access may restrict event timing
+  - Not designed for tech conferences
+  - Security may be complex (government-level venue)
+  - While extremely attractive for sponsors, practical fit for BSides is questionable
+
+  CONTACT: Via website (nobelpeacecenter.org)
+  Source: nobelpeacecenter.org (2026-04-08)

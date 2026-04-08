@@ -1,0 +1,71 @@
+name: "Stortingsgata Kurs & Konferanse"
+slug: stortingsgata
+url: "https://www.stortingsgata.no/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 330
+  sound_light: true
+  network: true
+  security_service: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 4
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: 595
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: fair
+  sponsor_attractiveness: fair
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (stortingsgata.no), venueful.com listing.
+
+  Conference and course venue at Nationaltheatret, Oslo.
+  Located at Stortingsgata 20, 0161 Oslo — stone's throw from Nationaltheatret T-bane.
+  11 rooms total, capacity 2-330 people.
+
+  ## Main Hall (Ordførersalen):
+  - Max capacity: 330 people
+  - Conference packages available
+
+  ## Other Rooms:
+  - Rådhusplassen: 200 capacity
+  - Studenterlunden: 200 capacity (80 for some setups)
+  - Pipervika: 200 capacity (80 for some setups)
+  - Plus 7 additional meeting rooms (20-150 capacity)
+
+  ## Pricing (all ex VAT):
+  - Conference package with warm lunch: 770 NOK/person
+  - Conference package with sandwiches: 595 NOK/person
+  - Breakfast package: 395 NOK/person
+  - Includes: room rental, standard tech, coffee/tea/water all day, 2 breaks with snacks
+  - Restaurant Tivander in 2nd floor for full meals
+
+  ## Tech:
+  - Canvas/screen, wireless internet, Bose speakers throughout
+  - Wireless microphones for presentations
+  - Daylight, good ventilation, modern tech in all rooms
+
+  ## Concerns:
+  - Ordførersalen at 330 is below the 400-person threshold — DISQUALIFYING for main stage
+  - Minimum 150 people for Ordførersalen packages
+  - Academic/corporate atmosphere — less BSides vibe
+  - Cost estimate at 595 NOK/pp is competitive but capacity too low
+  - Could work as a multi-track venue using multiple rooms, but no single large hall
+  - No info on security service or cloakroom
+
+  CONTACT: booking@stortingsgata.no, +47 974 19 834
+  Source: stortingsgata.no (2026-04-08)

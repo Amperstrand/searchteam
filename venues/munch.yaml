@@ -1,0 +1,57 @@
+name: "MUNCH"
+slug: munch
+url: "https://www.munch.no/en/venue-hire/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: fair
+  atmosphere: excellent
+  sponsor_attractiveness: excellent
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (munch.no/en/venue-hire).
+
+  Art museum offering event venues "out of the ordinary."
+  Surrounded by world-class Edvard Munch art.
+  Located at Edvard Munchs plass 1, 0194 Oslo — Bjørvika, near Opera.
+
+  ## Characteristics:
+  - "Event venues out of the ordinary" for courses, conferences, business events
+  - World-class art setting
+  - Restaurant and bar on premises
+  - Modern building (opened 2021) — 13 floors, innovative architecture
+
+  ## Concerns:
+  - Capacity unknown — museum space, likely not designed for 400+ conferences
+  - Art museum setting — may not have appropriate AV/tech for tech talks
+  - Museum opening hours may restrict event timing
+  - Premium venue in Bjørvika — likely very expensive
+  - Exhibition spaces are designed for art viewing, not conference seating
+  - May not have enough breakout/village rooms
+  - Unique atmosphere but uncertain practical fit for BSides format
+  - External AV equipment likely needed
+
+  CONTACT: Via website (munch.no/en/venue-hire)
+  Source: munch.no (2026-04-08)

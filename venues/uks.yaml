@@ -1,0 +1,61 @@
+name: "UKS (Unge Kunstneres Samfund)"
+slug: uks
+url: "https://www.uks.no/featured/uks-spaces-for-hire/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: null
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: excellent
+  sponsor_attractiveness: fair
+  transport_access: good
+  dinner_capacity: null
+  catering_in_house: false
+  bar_service: false
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (uks.no).
+
+  Artist-run organization offering unique event spaces for hire in central Oslo.
+  Located at Keysers gate 1, Oslo — near Majorstuen.
+
+  ## Spaces:
+  - Majestic exhibition hall with 7-metre historic cassette ceiling
+  - Mezzanine surrounding the hall with project spaces
+  - "Unique spaces for hire in central Oslo"
+
+  ## Characteristics:
+  - Raw, artistic atmosphere — very grassroots/industrial
+  - Good BSides vibe potential (similar to Vulkan's gritty charm)
+  - Historic building with character
+
+  ## Concerns:
+  - Capacity unknown — exhibition hall, not designed for seated conferences
+  - No professional AV/sound/lighting mentioned
+  - No in-house catering or bar service
+  - Artist-run organization — limited event management infrastructure
+  - Tech setup would need to be entirely external
+  - No WiFi/network infrastructure for 400+ attendees
+  - Very limited info available
+  - May be too small — single hall only
+  - Loading access and logistics unknown
+
+  CONTACT: Via website (uks.no)
+  Source: uks.no (2026-04-08)

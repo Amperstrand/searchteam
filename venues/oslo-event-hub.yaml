@@ -1,0 +1,61 @@
+name: "Oslo Event Hub"
+slug: oslo-event-hub
+url: "https://www.osloeventhub.com/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: true
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: 3
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: good
+  sponsor_attractiveness: fair
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: false
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (osloeventhub.com), venueful.com listing.
+
+  Formerly Gamle Museet, re-opened November 2022 after major renovation.
+  "Awarded Norway's best conference and event venue."
+  Located at Dronningens gate 4, Sentrum — short walk from Oslo S.
+
+  ## Space:
+  - 2,000m² over 3 floors
+  - Conference rooms, meeting rooms, event spaces
+  - State-of-the-art technical equipment for physical, digital, and hybrid events
+  - Can transform from conference during day to party/dinner in evening
+  - Multiple rooms suggest village/breakout potential
+
+  ## Capabilities:
+  - Conferences, meetings, courses, seminars, workshops
+  - Digital and hybrid events
+  - Exhibitions and trade shows
+  - 360° tour available on website
+
+  ## Concerns:
+  - No public pricing — must request quote
+  - Exact main hall capacity unknown — need to verify
+  - Central location but Dronningens gate may have limited loading access
+  - External catering required (no in-house)
+  - Relatively new venue (2022) — limited track record for tech conferences
+
+  CONTACT: Via website contact form (osloeventhub.com)
+  Source: osloeventhub.com, venueful.com (2026-04-08)

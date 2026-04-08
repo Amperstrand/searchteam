@@ -1,0 +1,60 @@
+name: "House of Oslo"
+slug: house-of-oslo
+url: "https://houseofoslo.no/konferansesenter/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: true
+  security_service: null
+  viewing_quality: null
+  seating_quality: true
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: poor
+  sponsor_attractiveness: excellent
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: null
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (houseofoslo.no), venueful.com listing.
+
+  Conference center and office hotel in the VIA building, Vika.
+  Located at Ruseløkkveien 34, 0251 Oslo — central business district.
+
+  ## Facilities:
+  - Meeting rooms, auditorium, arbitration hall
+  - For both small and large groups
+  - Fully digital/modern facilities
+  - "Where quality meets expertise"
+
+  ## Characteristics:
+  - Very corporate — located in CBD signal building (VIA)
+  - Focus on board meetings, arbitration, corporate conferences
+  - Modern, professional environment
+
+  ## Concerns:
+  - Auditorium capacity unknown — likely below 400 (corporate meeting focus)
+  - Very corporate atmosphere — poor BSides vibe fit (worse than Clarion Hub)
+  - No public pricing
+  - Limited info on tech capabilities for large events
+  - Sponsor attractiveness is high (premium corporate setting) but at the cost
+    of the grassroots BSides identity
+  - Probably expensive — CBD premium location
+
+  CONTACT: resepsjon@houseofoslo.no, +47 902 11 177
+  Source: houseofoslo.no, venueful.com (2026-04-08)

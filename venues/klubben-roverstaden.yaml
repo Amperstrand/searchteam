@@ -1,0 +1,64 @@
+name: "Klubben i Røverstaden"
+slug: klubben-roverstaden
+url: "https://www.roverstaden.no/en/klubben"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 600
+  sound_light: true
+  network: null
+  security_service: true
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: fair
+  atmosphere: good
+  sponsor_attractiveness: fair
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: false
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (roverstaden.no), oslokonserthus.no booking page.
+
+  Club venue and event space in the basement under Oslo Konserthus.
+  Located at Munkedamsveien 15, 0250 Oslo. Same building as Oslo Concert Hall.
+  Formerly the legendary Club7 and Sardines venue.
+
+  ## Capacity:
+  - Standing: 600
+  - Seated long tables: 200
+  - Mingling/high-table: 350-400
+  - Theatre style: 300
+
+  ## Characteristics:
+  - Underground/intimate layout — "unique sense of closeness to the stage"
+  - Good for concerts, kick-offs, conferences, corporate events
+  - Bar service available
+  - Open only for events (not a regular venue)
+  - Oslo Konserthus handles booking and technical support
+
+  ## Concerns:
+  - Below-ground venue — no natural light
+  - Seating quality unknown (club venue, likely not theatre seating)
+  - 300 theatre is below 400 threshold, but 600 standing exceeds it
+  - Layout flexibility limited (single room)
+  - No separate village spaces — one room only
+  - No public pricing — must request quote
+  - Shared building with Oslo Konserthus — other events may run simultaneously upstairs
+  - Vibe is more "club night" than "tech conference"
+
+  CONTACT: Terje Bontveit 918 61 693, via oslokonserthus.no booking
+  Source: roverstaden.no, oslokonserthus.no (2026-04-08)

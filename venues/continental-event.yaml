@@ -1,0 +1,61 @@
+name: "Continental Event"
+slug: continental-event
+url: "https://hotelcontinental.no/continental-event/en/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: true
+  security_service: null
+  viewing_quality: null
+  seating_quality: true
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: poor
+  sponsor_attractiveness: excellent
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: true
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (continentalevent.no, hotelcontinental.no).
+
+  Part of Hotel Continental — one of Oslo's most popular meeting venues.
+  Located at Stortingsgata 24/26, 0117 Oslo — overlooking Palace Park.
+  Graceful Victorian hotel, late 19th century building.
+
+  ## Facilities:
+  - 12 meeting and event rooms
+  - Conference rooms for large and small groups
+  - Function rooms for events and parties
+  - Restaurant and bar on premises
+  - Cloakroom available
+
+  ## Rooms:
+  - Caroline: 60 conference / 150 dinner (max room found on website)
+  - Other rooms likely smaller — corporate meeting scale
+  - Conference packages available with day delegate rates
+
+  ## Concerns:
+  - Largest room found (Caroline) is only 60 for conference — well below 400
+  - Need to verify if any room can hold 400+ (website doesn't clearly state)
+  - Very hotel/corporate atmosphere — poor BSides vibe fit
+  - Victorian elegance — attractive to corporate sponsors but wrong identity
+  - Part of luxury hotel — expect premium pricing
+  - May not have the village/breakout space needed
+
+  CONTACT: Via website (hotelcontinental.no/continental-event)
+  Source: continentalevent.no, hotelcontinental.no (2026-04-08)

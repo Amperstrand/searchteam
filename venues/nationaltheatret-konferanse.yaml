@@ -1,0 +1,62 @@
+name: "Nationaltheatret Konferansesenter"
+slug: nationaltheatret-konferanse
+url: "https://www.nationaltheatretkonferansesenter.no/en"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: true
+  network: true
+  security_service: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: true
+  layout_flexibility: good
+  atmosphere: fair
+  sponsor_attractiveness: good
+  transport_access: excellent
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  RESEARCHED: Website (nationaltheatretkonferansesenter.no).
+
+  Modern conference venue right in the heart of Oslo, only 25 meters from
+  Nationaltheatret station. Owned by KS Agenda AS, catering by Fursetgruppen.
+  Located at Haakon VIIs gate 9, 0161 Oslo.
+
+  ## Facilities:
+  - Fully digital rooms, from small boardrooms to large conference halls
+  - Digital studio and hybrid conference capabilities (1000+ digital productions since 2020)
+  - Sustainable catering by Fursetgruppen (high-end Oslo hospitality)
+  - All rooms heldigital with modern tech equipment
+
+  ## Strengths:
+  - Exceptional location — 25m from Nationaltheatret (T-bane, train, tram, bus)
+  - Fursetgruppen catering — premium food quality (same as Gamle Logen)
+  - Professional hybrid/streaming setup
+  - Central Oslo, walking distance from everything
+
+  ## Concerns:
+  - Main hall capacity unknown — website doesn't list specific room sizes
+  - Corporate atmosphere — may lack BSides grassroots vibe
+  - Fursetgruppen = premium pricing expected
+  - No public pricing — must request quote
+  - Focus seems to be on corporate meetings rather than tech conferences
+  - Need to verify largest room capacity meets 400 threshold
+  - Limited info on village/breakout room count
+
+  CONTACT: booking@ksagenda.no, +47 24 13 27 50
+  Source: nationaltheatretkonferansesenter.no (2026-04-08)
