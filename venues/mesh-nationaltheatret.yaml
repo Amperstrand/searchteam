@@ -1,0 +1,54 @@
+name: "Mesh Nationaltheatret"
+slug: "mesh-nationaltheatret"
+url: "https://meshcommunity.com/oslo/meeting-event"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 150
+  sound_light: true
+  network: true
+  security_service: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 2
+  sponsor_spaces: null
+  social_area_capacity: 150
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: true
+  atmosphere: "Modern startup/creative community vibe"
+  sponsor_attractiveness: true
+  transport_access: "Central Oslo, Tordenskiolds gate 2"
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  Mesh Nationaltheatret is the second Mesh Community location in central Oslo.
+  
+  Spaces:
+  - Workbar: 150 capacity with stage, kitchen, bar
+  - Roof Terrace: 150 capacity (9th floor with panoramic views)
+  - Multiple meeting rooms
+  
+  Strengths:
+  - Central location (Tordenskiolds gate 2)
+  - Startup community alignment
+  - Full event provider with catering
+  - Rooftop terrace with city views
+  - Modern facilities
+  
+  Weaknesses:
+  - Max 150 capacity (below 400 target)
+  - Smaller than Youngstorget location
+  - Would need to combine spaces
+  
+  Contact: adam@meshcommunity.com
+  Source: meshcommunity.com/oslo/meeting-event (visited 2026-04-08)

@@ -1,0 +1,56 @@
+name: "Pakkhuset"
+slug: "pakkhuset"
+url: "https://www.pakkhusetoslo.no/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 400
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 6
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: true
+  atmosphere: "Urban warehouse/gallery aesthetic"
+  sponsor_attractiveness: true
+  transport_access: "Central Oslo, Nedre Slottsgate"
+  dinner_capacity: 400
+  catering_in_house: null
+  bar_service: null
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  Pakkhuset is a unique urban warehouse venue in central Oslo with multiple spaces:
+  - Lokaler (Main spaces)
+  - Mesaninen (Mezzanine)
+  - BlackRoom
+  - Bakgarden (Garden area)
+  - Hovedbar (Main bar)
+  - Galleriet (Gallery)
+  - KG3
+  
+  Strengths:
+  - Multiple flexible spaces for villages/breakouts
+  - Urban warehouse aesthetic fits BSides vibe
+  - Central location (Nedre Slottsgate)
+  - Suitable for conferences, dinners, events
+  - Multiple room configurations
+  
+  Weaknesses:
+  - Limited information on exact capacities
+  - Noise restrictions (residential area)
+  
+  Contact: +47 911 49 063
+  Address: Nedre Slottsgate 2c, 0153 Oslo
+  Source: pakkhusetoslo.no (visited 2026-04-08)

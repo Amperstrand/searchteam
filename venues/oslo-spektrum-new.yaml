@@ -1,0 +1,60 @@
+name: "Nye Oslo Spektrum (New Oslo Spektrum)"
+slug: "oslo-spektrum-new"
+url: "https://nyeoslospektrum.no/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 8800
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 10
+  sponsor_spaces: null
+  social_area_capacity: 1000
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: true
+  atmosphere: "Modern iconic arena"
+  sponsor_attractiveness: true
+  transport_access: "Sonja Henies plass 2, central Oslo"
+  dinner_capacity: 2400
+  catering_in_house: null
+  bar_service: null
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: true
+
+notes: |
+  Nye Oslo Spektrum is a completely renovated/rebuilt version of the iconic Oslo Spektrum arena.
+  Opening: 2028 (NOTE: Future venue, not available for 2026 BSides Oslo)
+  
+  Spaces:
+  - Main Arena: 8,800 theatre capacity (3,100 sqm)
+  - Arena Conference Hall: 2,400 capacity (1,137 sqm)
+  - Multiple breakout rooms (C1-C4, M1-M10)
+  - Social spaces across 4 floors
+  - Full accessibility and modern logistics
+  
+  Strengths:
+  - Iconic landmark venue
+  - Massive capacity for growth
+  - Multiple breakout spaces
+  - State-of-the-art facilities
+  - Excellent transport access
+  
+  Weaknesses:
+  - NOT AVAILABLE FOR 2026 (opens 2028)
+  - Likely very expensive
+  - Probably overkill for 400-500 person event
+  
+  Contact: [email protected], +47 489 223 97
+  Address: Sonja Henies plass 2, 0185 Oslo
+  Source: nyeoslospektrum.no (visited 2026-04-08)
+  
+  RECOMMENDATION: Monitor for future events, but not viable for BSides Oslo 2026

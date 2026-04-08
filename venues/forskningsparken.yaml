@@ -1,0 +1,56 @@
+name: "Forskningsparken (Oslo Science Park)"
+slug: "forskningsparken"
+url: "https://www.forskningsparken.no/en/conference-centre"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 160
+  sound_light: null
+  network: null
+  security_service: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 5
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: true
+  atmosphere: "Academic/research park setting"
+  sponsor_attractiveness: null
+  transport_access: "Gaustadalléen, Oslo"
+  dinner_capacity: null
+  catering_in_house: null
+  bar_service: null
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  Forskningsparken is a conference center at Oslo Science Park with 26 meeting rooms.
+  
+  Main Spaces:
+  - Toppsenteret: Large meeting room (Faros) + 2 smaller rooms (Nimbus, Stratus) + lounge + rooftop terrace
+  - Forum: Auditorium for 160 people (lectures, presentations, courses)
+  - Flora Lounge: Large room (Fauna - 80 people) + 2 smaller rooms (Fungi, Mikro) + lounge
+  - Forskningshagen: Outdoor area
+  
+  Strengths:
+  - Multiple meeting rooms (26 total)
+  - Flexible spaces
+  - Rooftop terrace with panoramic views
+  - Full-service provider
+  - Academic credibility
+  
+  Weaknesses:
+  - Max single room capacity is 160 (well below 400 target)
+  - Would require combining multiple spaces
+  - Not ideal for single-track conference format
+  
+  Contact: Via website
+  Address: Gaustadalléen, Oslo
+  Source: forskningsparken.no/en/conference-centre (visited 2026-04-08)

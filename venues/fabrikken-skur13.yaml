@@ -1,0 +1,51 @@
+name: "Fabrikken på SKUR13"
+slug: "fabrikken-skur13"
+url: "https://www.fabrikken.no/"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: null
+  sound_light: null
+  network: null
+  security_service: null
+  viewing_quality: null
+  seating_quality: null
+  village_spaces: null
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: true
+  atmosphere: "Industrial/skateboard culture venue"
+  sponsor_attractiveness: null
+  transport_access: "Filipstadkaia, waterfront"
+  dinner_capacity: null
+  catering_in_house: null
+  bar_service: null
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: null
+
+notes: |
+  Fabrikken på SKUR13 is an event venue at Filipstadkaia in collaboration with Oslo Skateboard Association.
+  
+  Strengths:
+  - Unique waterfront location
+  - Industrial aesthetic
+  - Community-oriented
+  - Interesting cultural vibe
+  
+  Weaknesses:
+  - Limited information on capacity
+  - Skateboard culture focus may not align with tech/security conference
+  - Unclear if suitable for 400+ person event
+  
+  Contact: info@fabrikken.no, Tel: 9003 4559
+  Address: Filipstadkaia, Oslo
+  Source: fabrikken.no (visited 2026-04-08)
+  
+  STATUS: Needs further research - capacity and suitability unclear

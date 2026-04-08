@@ -1,0 +1,53 @@
+name: "Mesh Youngstorget"
+slug: "mesh-youngstorget"
+url: "https://meshcommunity.com/oslo/meeting-event"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 250
+  sound_light: true
+  network: true
+  security_service: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 3
+  sponsor_spaces: null
+  social_area_capacity: 250
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: true
+  atmosphere: "Modern startup/creative community vibe"
+  sponsor_attractiveness: true
+  transport_access: "Central Oslo, Youngstorget"
+  dinner_capacity: null
+  catering_in_house: true
+  bar_service: true
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: true
+  loading_access: null
+
+notes: |
+  Mesh Youngstorget offers multiple event spaces:
+  - Atrium: 220 capacity with stage and bar
+  - Workbar: 250 capacity with stage, kitchen, bar
+  - Bar: 60 seated / 100 mingling
+  - Roof Terrace: 150 capacity (9th floor, panoramic views)
+  - Multiple meeting rooms available
+  
+  Strengths:
+  - Multiple flexible spaces for villages/breakouts
+  - Full event provider with catering
+  - Strong startup community alignment
+  - Central location
+  - Over 500 events hosted annually
+  
+  Weaknesses:
+  - Max 250 for main arena (below 400 target)
+  - Would need to combine multiple spaces
+  
+  Contact: adam@meshcommunity.com
+  Source: meshcommunity.com/oslo/meeting-event (visited 2026-04-08)

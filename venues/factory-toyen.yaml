@@ -1,0 +1,53 @@
+name: "Factory Tøyen"
+slug: "factory-toyen"
+url: "https://www.factorytoyen.com/event"
+status: candidate
+evaluated: false
+
+data:
+  arena_capacity: 400
+  sound_light: true
+  network: null
+  security_service: null
+  viewing_quality: true
+  seating_quality: true
+  village_spaces: 3
+  sponsor_spaces: null
+  social_area_capacity: null
+  cost_per_person: null
+  total_cost: null
+  exclusivity: null
+  layout_flexibility: true
+  atmosphere: "Industrial/creative warehouse aesthetic"
+  sponsor_attractiveness: true
+  transport_access: "Tøyen, near T-bane and bus 20"
+  dinner_capacity: null
+  catering_in_house: null
+  bar_service: null
+  coatcheck: null
+  single_venue: true
+  green_room: null
+  av_equipment: null
+  loading_access: true
+
+notes: |
+  Factory Tøyen is an industrial warehouse venue in Tøyen with multiple spaces:
+  - The Hall: Large main space for conferences, product launches, exhibitions, dinners
+  - The Chamber: Smaller room for workshops/breakouts (up to 16 people)
+  - The Loft: Upper space with good acoustics for workshops/presentations
+  
+  Strengths:
+  - Industrial aesthetic fits BSides hacker vibe
+  - Multiple breakout spaces
+  - Good loading access
+  - Flexible layout
+  - Central Oslo location
+  
+  Weaknesses:
+  - No parking on property (public transport/parking houses nearby)
+  - Noise restrictions (events must end by 23:00 due to residential area)
+  - Alcohol service requires separate municipal permit
+  
+  Contact: hello@factorytoyen.com, +47 22 12 07 02
+  Address: Kjølberggata 21, 0653 Oslo
+  Source: factorytoyen.com/event (visited 2026-04-08)
