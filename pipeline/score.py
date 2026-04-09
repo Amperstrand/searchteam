@@ -16,6 +16,7 @@ Output:
 """
 
 import argparse
+import json
 import sys
 from pathlib import Path
 
@@ -174,6 +175,7 @@ def main():
     parser.add_argument("--venue", help="Score a single venue by slug")
     parser.add_argument("--requirements", default=None, help="Path to requirements.yaml")
     parser.add_argument("--venues-dir", default=None, help="Path to venues directory")
+    parser.add_argument("--json", action="store_true", help="Output results as JSON instead of text")
     args = parser.parse_args()
 
     base = Path(__file__).parent.parent
@@ -192,11 +194,6 @@ def main():
             print(f"Venue '{args.venue}' not found in {venues_dir}", file=sys.stderr)
             sys.exit(1)
 
-    print("=" * 70)
-    print(f"VENUE SCORING: {req['event']['name']}")
-    print(f"Budget: {req['event'].get('budget_range_nok', 'N/A')} NOK | Target attendance: {req['event'].get('expected_attendance', 'N/A')}")
-    print("=" * 70)
-
     results = []
     for vf in venue_files:
         raw = load_yaml(vf)
@@ -207,6 +204,21 @@ def main():
         results.append(result)
 
     results.sort(key=lambda r: r.get("pct", 0), reverse=True)
+
+    if args.json:
+        output = {
+            "event": req["event"],
+            "results": results,
+            "qualified": [r for r in results if r["status"] != "DISQUALIFIED"],
+        }
+        json.dump(output, sys.stdout, indent=2)
+        print()
+        return
+
+    print("=" * 70)
+    print(f"VENUE SCORING: {req['event']['name']}")
+    print(f"Budget: {req['event'].get('budget_range_nok', 'N/A')} NOK | Target attendance: {req['event'].get('expected_attendance', 'N/A')}")
+    print("=" * 70)
 
     for r in results:
         print_scores(r)
